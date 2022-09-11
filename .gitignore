@@ -3,4 +3,6 @@
 .RData
 .Ruserdata
 
+_site/
+.jekyll-cache/
 .DS_Store

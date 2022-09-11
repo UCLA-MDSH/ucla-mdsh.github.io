@@ -16,3 +16,13 @@
 
 <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll>
 
+Use command `jekyll serve --config _config.yml,_config_dev.yml`.
+
+## TODO
+
+* [ ] Academic calendar 2023-4. [Sample](https://static1.squarespace.com/static/5d279b884a66f90001eed359/t/61d8992306898f3b553a0889/1641584931337/HP+Calendar+22-23.pdf)  
+* [ ] Class schedule 2023-4. [Sample](https://static1.squarespace.com/static/5d279b884a66f90001eed359/t/62fe62f6bbdf7e6fe7283224/1660838647179/22-23+HP+Course+Schedule.pdf)  
+* [ ] Faculty listing. [Sample](https://www.mphhp.ph.ucla.edu/faculty)  
+* [ ] Enrich content in footer: Department contact, social media, Apply Now Button.  
+* [ ] Fix Nav placement issue when window is narrow.  
+* [ ] 

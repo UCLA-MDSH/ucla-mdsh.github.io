@@ -1,0 +1,44 @@
+- name: GitHub
+  url: https://github.com/UCLA-MDSH
+  class: icon-github
+  title: "Code und mehr..."
+
+- name: YouTube
+  url: http://www.youtube.com/UCLA-MDSH
+  class: icon-youtube
+  title: "Video"
+
+# - name: Twitter
+#   url: http://twitter.com/UCLA-MDSH
+#   class: icon-twitter
+#   title: "Tweets"
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/UCLA-MDSH/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
+
+- name: Facebook
+  url: https://www.facebook.com/groups/1728232057395568
+  class: icon-facebook
+  title: "UCLA Biostatistics Facebook Group"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

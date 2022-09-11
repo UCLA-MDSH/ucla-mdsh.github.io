@@ -1,0 +1,54 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Admission
+  url: "/admission/"
+  side: left
+  dropdown:
+  - title: "Admission Requirement"
+    url: "/admission/requirement"
+  - title: "Finance"
+    url: "/admission/finance"
+  - title: "Information Session"
+    url: "/admission/infosession"
+
+- title: Curriculum
+  url: "/curriculum/"
+  side: left
+  dropdown:
+  - title: "Cohort Learning"
+    url: "/curriculum/cohortlearning"
+  - title: "Course Description"
+    url: "/curriculum/coursedescription"
+  - title: "Class Schedule"
+    url: "/curriculum/classschedule"
+
+- title: Students
+  url: "/students/"
+  side: left
+  dropdown:
+  - title: "Admitted Students"
+    url: "/students/admittedstudents"
+  - title: "Class of 2023"
+    url: "/students/class2023"
+  - title: "Academic Calendar 23-24"
+    url: "/students/calendar2023"
+  - title: "Class Schedule 23-24"
+    url: "/students/schedule2023"
+
+- title: Faculty
+  url: "/faculty/"
+  side: left
+
+- title: News
+  url: "/blog/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
