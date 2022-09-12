@@ -353,7 +353,7 @@ $cursor-text-value: text !default;
   @if $include-html-global-classes {
 
     // Must be 100% for off canvas to work
-    html, body { min-height: 100vh; }
+    html, body { height: 100%; }
 
     // Set box-sizing globally to handle padding and border widths
     *,
@@ -368,7 +368,6 @@ $cursor-text-value: text !default;
     // Default body styles
     body {
       background: $body-bg;
-      overflow-x: hidden;
       color: $body-font-color;
       padding: 0;
       margin: 0;
@@ -378,7 +377,6 @@ $cursor-text-value: text !default;
       line-height: $base-line-height; // Set to $base-line-height to take on browser default of 150%
       position: relative;
       cursor: $cursor-auto-value;
-      min-height: 100vh;
     }
 
   a:hover { cursor: $cursor-pointer-value; }

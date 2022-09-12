@@ -25,4 +25,4 @@ Use command `jekyll serve --config _config.yml,_config_dev.yml`.
 * [ ] Faculty listing. [Sample](https://www.mphhp.ph.ucla.edu/faculty)  
 * [ ] Enrich content in footer: Department contact, social media, Apply Now Button.  
 * [ ] Fix Nav placement issue when window is narrow.  
-* [ ] 
+* [ ] Google site verification?  
