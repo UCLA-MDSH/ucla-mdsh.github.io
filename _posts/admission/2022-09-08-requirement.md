@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 # subheadline:  "Multi-Device Layouts in Color"
 title:  "Admission Requirement"
 teaser: ""
