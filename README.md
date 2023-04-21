@@ -28,3 +28,4 @@ Use command `jekyll serve --config _config.yml,_config_dev.yml`.
 * [ ] Fix Nav placement issue when window is narrow.  
 * [ ] Google site verification?  
 * [ ] Landing page (Christina Ramirez) background computer too old. May switch to a more modernish pic. later.
+* [ ] Switch to the officially UCLA approved MDSH logo.  
