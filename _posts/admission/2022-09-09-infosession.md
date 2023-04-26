@@ -13,6 +13,6 @@ header:
 permalink: /admission/infosession/
 ---
 
-We will hold monthly informational Q&A sessions in Jan-Aug 2023. During these sessions, you will have the opportunity to meet with the Director, teaching faculty, and students. 
+We will hold monthly informational Q&A sessions in May-Aug 2023. During these sessions, you will have the opportunity to meet with the Director, teaching faculty, and students. 
 
 Stay tuned! 

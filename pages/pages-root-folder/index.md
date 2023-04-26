@@ -9,7 +9,7 @@ header:
 # image: 
 #     title: 'christina-ramirez-600-400.jpg'
 #     caption: "Training Next-Generation Health Data Scientists"
-#     caption_url: https://www.biostat.ucla.edu
+#     caption_url: https://ph.ucla.edu/departments/biostatistics
 permalink: /index.html
 homepage: true
 ---

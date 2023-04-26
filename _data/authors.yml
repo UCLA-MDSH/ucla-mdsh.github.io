@@ -8,7 +8,7 @@
 ucla-biostat: # replace this with your info
   name: "UCLA Biostatistics"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: https://www.biostat.ucla.edu/
+  uri: https://ph.ucla.edu/departments/biostatistics/
   email: biostat@ucla.edu
   twitter: "@ucla-biostat"
 # you can add more authors here
