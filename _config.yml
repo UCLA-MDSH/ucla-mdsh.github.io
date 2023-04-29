@@ -42,7 +42,7 @@ improve_content: https://github.com/UCLA-MDSH/ucla-mdsh.github.io/edit/gh-pages
 urlimg: 'https://mdsh.ucla.edu/images/'
 
 # Logo size was 600x80 pixels - official logo has different aspect ratio, is now 446x80
-logo: "Bxd_Blk_MasterDataSciHealth_C_446x80.png"
+logo: "Bxd_Blk_MasterDataSciHealth_C_less_whitespace.png"
 
 # Plugins
 plugins:
