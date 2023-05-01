@@ -28,7 +28,7 @@ The MDSH program caters to working professionals by providing a convenient sched
 
 ## Two-Year Program Schedule
 
-MDSH students typically take 2 courses per quarter and completes the program in 6 academic quarters (20 months).
+MDSH students typically take 2 courses per quarter and complete the program in 6 academic quarters (20 months).
 
 | Year | Fall Quarter               | Winter Quarter                    | Spring Quarter                    |
 |------|----------------------------|-----------------------------------|-----------------------------------|
