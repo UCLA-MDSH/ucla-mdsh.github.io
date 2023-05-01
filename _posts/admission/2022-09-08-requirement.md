@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 # subheadline:  "Multi-Device Layouts in Color"
-title:  "Admission Requirement"
+title: "Admission Requirements"
 teaser: ""
 show_meta: false
 breadcrumb: true
@@ -24,9 +24,9 @@ permalink: /admission/requirement/
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-The **Master of Data Science in Health (MDSH)** applicants are expected to fulfill the minimum requirements for admission to the Fielding School of Public Health. Early applications are encouraged. Prospective students are encouraged to attend an information session or contact us for an admissions consultation.
+The **Master of Data Science in Health (MDSH)** applicants are expected to fulfill the minimum requirements for admission to the Fielding School of Public Health. Prospective students are encouraged to attend an information session or contact us for an admissions consultation.
 
-## Admission Requirement
+## Admission Requirements
 
 * **Resume/CV**: Full-time work experience is not required.
 
@@ -34,21 +34,23 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 * **Personal Statement/Statement of Purpose**.
 
-* **Three Letters of Recommendation**: Uploaded to the UCLA application site directly by your recommenders. Letters should be from either a professional and/or academic source. 
+* **Three Letters of Recommendation**: Uploaded to the UCLA application site directly by your recommenders. Letters should be from a professional and/or academic source. 
 
-* **GRE Scores**: The GRE (Graduate Record Examinations) requirement can be waived for applicants who have at least a 3.0 GPA. A recent GRE score (within the last 5 years) is required for those who have a GPA lower than the required 3.0. 
+<!-- * **GRE Scores**: The GRE (Graduate Record Examinations) requirement can be waived for applicants who have at least a 3.0 GPA. A recent GRE score (within the last 5 years) is required for those who have a GPA lower than the required 3.0. -->
 
 * **TOEFL/IELTS Scores** (international applicants only): Test of English as a Foreign Language (TOEFL) or the International English Language Testing System (IELTS) is required for applicants whose native language is not English, or who have completed post-secondary education outside of the U.S. See [University Policies and Requirements](https://grad.ucla.edu/admissions/english-requirements/).
 
 ## How to Apply
 
-Submit an online application to [UCLA Graduate Admissions](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). Please be sure to fill in all sections (except personal history statement). NOTE: applicants applying to the MDSH program do NOT need to submit a SOPHAS application.
+Applications for MDSH will open in June 2023 for the Fall quarter.  [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted. 
 
-Select **Master of Data Science in Health (MDSH)** as the major.
+<!--Submit an online application to [UCLA Graduate Admissions](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). Please be sure to fill in all sections (except personal history statement). NOTE: applicants applying to the MDSH program do NOT need to submit a SOPHAS application.
+
+Select **Master of Data Science in Health (MDSH)** as the major.-->
 
 ## Deadlines
 
-* **Priority Deadline**: June 1, 2023.
+<!--* **Priority Deadline**: June 1, 2023.-->
 
 * **Standard Deadline**: July 1, 2023.
 

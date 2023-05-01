@@ -13,6 +13,6 @@ header:
 permalink: /admission/infosession/
 ---
 
-We will hold monthly informational Q&A sessions in May-Aug 2023. During these sessions, you will have the opportunity to meet with the Director, teaching faculty, and students. 
+We will hold biweekly informational Q&A sessions starting in May 2023. During these sessions, you will have the opportunity to meet with the Director, teaching faculty, and students. 
 
-Stay tuned! 
+[Sign up here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified of upcoming information sessions. 
