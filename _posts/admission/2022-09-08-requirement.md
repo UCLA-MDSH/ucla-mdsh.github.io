@@ -36,9 +36,9 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 * **Three Letters of Recommendation**: Uploaded to the UCLA application site directly by your recommenders. Letters should be from a professional and/or academic source. 
 
-<!-- * **GRE Scores**: The GRE (Graduate Record Examinations) requirement can be waived for applicants who have at least a 3.0 GPA. A recent GRE score (within the last 5 years) is required for those who have a GPA lower than the required 3.0. -->
-
 * **TOEFL/IELTS Scores** (international applicants only): Test of English as a Foreign Language (TOEFL) or the International English Language Testing System (IELTS) is required for applicants whose native language is not English, or who have completed post-secondary education outside of the U.S. See [University Policies and Requirements](https://grad.ucla.edu/admissions/english-requirements/).
+
+* **GRE Scores** (optional).
 
 ## How to Apply
 
