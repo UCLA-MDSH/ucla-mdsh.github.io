@@ -32,7 +32,7 @@ MDSH students typically take 2 courses per quarter and complete the program in 6
 
 | Year | Fall Quarter               | Winter Quarter                    | Spring Quarter                    |
 |------|----------------------------|-----------------------------------|-----------------------------------|
-| 1    | BIOSTAT 203A Data Science  | BIOSTAT 203B Data Science         | BIOSTAT 203C Data Science         |
+| 1    | BIOSTAT 203A Data Management and Statistical Computing  | BIOSTAT 203B Data Science in R    | BIOSTAT 203C Data Science in Python |
 |      | BIOSTAT 100A Biostatistics | BIOSTAT 212A Statistical Learning | BIOSTAT 212B Statistical Learning |
 | 2    | PUBHLT C201 Public Health  | Elective 2                        | Elective 4                        |
 |      | Elective 1                 | Elective 3                        | BIOSTAT 401 Capstone              |
