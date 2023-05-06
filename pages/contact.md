@@ -7,6 +7,13 @@ teaser              : "Want to get in touch with us? Email or use the contact fo
 header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "header_roadmap_2.jpg"
+    
+    
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Apply now! ›
+#  style: alert
+
 permalink           : "/contact/"
 ---
 

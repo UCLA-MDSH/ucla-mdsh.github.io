@@ -6,6 +6,12 @@ title: "Students"
 header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "jay-xu-tom-belin-900-400.jpg"
+    
+# callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Apply now! ›
+#  style: alert
+
 permalink: "/students/"
 ---
 <ul>

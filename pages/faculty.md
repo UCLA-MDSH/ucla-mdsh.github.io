@@ -10,6 +10,13 @@ header:
 #     title: "crespi-williams-900-400.jpg"
 #     caption: "Training Next-Generation Health Data Scientists"
 #     caption_url: https://ph.ucla.edu/departments/biostatistics
+
+
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Apply now! ›
+#  style: alert
+
 permalink: "/faculty/"
 ---
 
