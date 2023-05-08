@@ -20,11 +20,13 @@ slogan: ''
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p> Copyright &copy; <a href="https://ph.ucla.edu/departments/biostatistics/" target="_blank" style="color: #2774AE;">UCLA Department of Biostatistics</a>. All rights reserved.</p>'
 
-contact: '<p> Department of Biostatistics <br>
+# The contact info to show in the footer. includes/_footer.html
+contact: '<p> Master of Data Science in Health (MDSH) Program <br>
+Department of Biostatistics <br>
 UCLA Fielding School of Public Health <br>
 Box 177220, Suite 36-071 CHS <br>
 Los Angeles, CA 90095-1772 <br>
-biostat@ucla.edu <br>
+mdsh@ucla.edu <br>
 310.825.5250 </p>'
 
 # Main author of the website
