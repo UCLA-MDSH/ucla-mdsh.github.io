@@ -58,9 +58,11 @@ Select **Master of Data Science in Health (MDSH)** as the major.-->
 
 <!--* **Priority Deadline**: June 1, 2023.-->
 
-* **Standard Deadline**: July 1, 2023.
+The Priority deadline for 2023 Fall enrollment is July 25, 2023.
 
-* **Late Admissions**: July 25, 2023 (only if space permits).
+<!--** **Standard Deadline**: July 1, 2023.-->
+
+<!--** **Late Admissions**: July 25, 2023 (only if space permits).-->
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

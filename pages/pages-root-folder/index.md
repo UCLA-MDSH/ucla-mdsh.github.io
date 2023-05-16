@@ -24,7 +24,7 @@ The **UCLA Master of Data Science in Health (MDSH)** Program provides advanced t
 
 Complete your degree in as few as 20 months by attending in-person classes one weekend per month and online evening sessions!
 
-Applications for Fall Quarter 2023 will open soon.  [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted. 
+**Applications for Fall Quarter 2023 will open soon.**  [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted. 
 
 
 
