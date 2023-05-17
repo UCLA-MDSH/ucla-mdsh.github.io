@@ -10,11 +10,6 @@ categories:
 header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "dickson-court-birdview-1200-900.jpeg"
-    
-# callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Apply now! ›
-#  style: alert
 
 permalink: /admission/requirement/
 ---
@@ -30,7 +25,13 @@ permalink: /admission/requirement/
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-The **Master of Data Science in Health (MDSH)** applicants are expected to fulfill the minimum requirements for admission to the Fielding School of Public Health. Prospective students are encouraged to attend an information session or contact us for an admissions consultation.
+The **Master of Data Science in Health (MDSH)** applicants are expected to fulfill the minimum requirements for admission to the Fielding School of Public Health. Prospective students are encouraged to attend an information session, or [contact us](https://mdsh.ucla.edu/contact/) for an admissions consultation.
+
+<div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+        </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 ## Admission Requirements
 
@@ -58,7 +59,7 @@ Select **Master of Data Science in Health (MDSH)** as the major.-->
 
 <!--* **Priority Deadline**: June 1, 2023.-->
 
-The Priority deadline for 2023 Fall enrollment is July 25, 2023.
+The Priority deadline for 2023 Fall enrollment is **July 25, 2023.**
 
 <!--** **Standard Deadline**: July 1, 2023.-->
 

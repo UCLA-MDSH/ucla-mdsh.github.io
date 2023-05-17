@@ -3,7 +3,7 @@ layout              : page
 title               : "Contact"
 meta_title          : "Contact and use our contact form"
 subheadline         : ""
-teaser              : "Want to get in touch with us? Email or use the contact form."
+teaser              : "Want to get in touch with us? Email us at mdsh@ucla.edu or use the contact form."
 header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "header_roadmap_2.jpg"

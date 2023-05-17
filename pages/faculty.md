@@ -12,10 +12,10 @@ header:
 #     caption_url: https://ph.ucla.edu/departments/biostatistics
 
 
-#callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Apply now! ›
-#  style: alert
+callforaction:
+ url: https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_
+ text: Register for an Information Session
+ style: info
 
 permalink: "/faculty/"
 ---

@@ -11,10 +11,10 @@ header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "fsph-students-900x500.jpg"
     
-# callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Apply now! ›
-#  style: alert
+callforaction:
+ url: https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_
+ text: Register for an Information Session
+ style: info
 
 
 permalink: /curriculum/coursedescription/
@@ -32,6 +32,12 @@ permalink: /curriculum/coursedescription/
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 The MDSH is a two-year, 48 unit program, consisting of public health foundation (4 units), MDSH core courses (24 units), MDSH electives (16 units), and a data science capstone course (4 units).
+
+<div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+        </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 ## Public Health Foundation (4 units)
 

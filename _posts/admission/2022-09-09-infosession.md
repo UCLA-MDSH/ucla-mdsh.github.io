@@ -11,14 +11,14 @@ header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "dickson-court-birdview-1200-900.jpeg"
     
-# callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Apply now! ›
-#  style: alert
-
 permalink: /admission/infosession/
 ---
 
-We will hold biweekly informational Q&A sessions starting in May 2023. During these sessions, you will have the opportunity to meet with the Director, teaching faculty, and students. 
+We will hold information sessions on **Tuesdays at 5:00 PM PST**, where you will have the opportunity to meet with the Director, teaching faculty, and students. 
 
-[Sign up here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified of upcoming information sessions. 
+<div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+        </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+

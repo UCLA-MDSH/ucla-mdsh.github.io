@@ -10,11 +10,6 @@ categories:
 header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "fsph-students-900x500.jpg"
-    
-# callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Apply now! ›
-#  style: alert
 
 permalink: /curriculum/classschedule/
 ---
@@ -31,6 +26,12 @@ permalink: /curriculum/classschedule/
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 The MDSH program caters to working professionals by providing a convenient schedule of classes. Through this highly cost-effective program, students are able to maintain their full-time working schedule and professional income. Combining in-class sessions and distance learning education, the 20-month program is intended to be fast-paced and demanding. The goal is to create a student-centered and supportive environment that produces unlimited opportunities for career success.
+
+<div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+        </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 ## Two-Year Program Schedule
 
