@@ -30,6 +30,8 @@
   dropdown:
   - title: "Admitted Students"
     url: "/students/admittedstudents"
+  # - title: "International Students"
+  #   url: "/students/internationalstudents"
   - title: "Class of 2023"
     url: "/students/class2023"
   - title: "Academic Calendar 23-24"
@@ -43,6 +45,10 @@
 
 - title: News
   url: "/blog/"
+  side: left
+  
+- title: FAQ
+  url: "/FAQ/"
   side: left
 
 - title: "Search"
