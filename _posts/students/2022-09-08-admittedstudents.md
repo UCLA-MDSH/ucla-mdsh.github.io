@@ -58,5 +58,9 @@ The closest parking lot is parking structure 8. It is located at [555 Westwood P
 
 For more information, visit [here](https://transportation.ucla.edu/campus-parking/visitors) under the tab “How to Pay”.
 
+## Housing
+
+The department does not provide housing assistance. UCLA Housing has on campus living options and provides assistance in locating off campus housing. Please visit [the website](https://portal.housing.ucla.edu/content/housing-single-graduate-students-and-students-families) for more information about housing for graduate and professional students.
+
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
