@@ -12,6 +12,11 @@ header:
     image_fullwidth: "dickson-court-birdview-1200-900.jpeg"
     
 permalink: /admission/infosession/
+
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 ---
 
 We will hold information sessions on **Tuesdays at 5:00 PM PST**, where you will have the opportunity to meet with the Director, teaching faculty, and students. 

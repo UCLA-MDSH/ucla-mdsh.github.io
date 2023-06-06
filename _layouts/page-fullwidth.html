@@ -38,8 +38,8 @@ format: page-fullwidth
 {% comment %}
 *
 * First check, if there is a call for action-button
-*
-{% endcomment %}
+* Move endcomment here to restore
+
 {% if page.callforaction.url contains 'http' %}
 {% assign url = '' %}
 {% else %}
@@ -52,5 +52,7 @@ format: page-fullwidth
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
+
+{% endcomment %}
 
 

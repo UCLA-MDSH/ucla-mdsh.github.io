@@ -12,6 +12,11 @@ header:
     image_fullwidth: "fsph-students-900x500.jpg"
 
 permalink: /curriculum/classschedule/
+
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 ---
 
 <div class="row">

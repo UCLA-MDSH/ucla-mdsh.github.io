@@ -67,8 +67,8 @@ format: post
 {% comment %}
 *
 * First check, if there is a call for action-button
-*
-{% endcomment %}
+* Move endcommment here to restore
+
 {% if page.callforaction.url contains 'http' %}
 {% assign url = '' %}
 {% else %}
@@ -81,3 +81,4 @@ format: post
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
+{% endcomment %}

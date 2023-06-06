@@ -12,9 +12,9 @@ header:
     image_fullwidth: "fsph-students-900x500.jpg"
     
 callforaction:
- url: https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_
- text: Register for an Information Session
- style: info
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 
 permalink: /curriculum/cohortlearning/
 ---
@@ -28,3 +28,9 @@ Through this highly cost-effective program, students are able to maintain their 
 Students will start the program together and move through each quarter as a cohort. This gives students an opportunity to learn from each other and experience the various backgrounds and work experience that each student brings to the cohort. 
 
 Classes are held on campus only one weekend per month. The class schedule is given to all students in advance in order for them to plan around their career and family. 
+
+<div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+        </div><!-- /.small-12.columns -->
+</div><!-- /.row -->

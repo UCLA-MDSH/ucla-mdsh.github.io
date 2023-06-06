@@ -11,10 +11,10 @@ header:
 #     caption: "Training Next-Generation Health Data Scientists"
 #     caption_url: https://ph.ucla.edu/departments/biostatistics
 
-# callforaction:
-#   url: https://tinyletter.com/feeling-responsive
-#   text: Apply now! ›
-#   style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
   
 permalink: /index.html
 homepage: true
@@ -24,13 +24,15 @@ The **UCLA Master of Data Science in Health (MDSH)** Program provides advanced t
 
 Complete your degree in as few as 20 months by attending in-person classes one weekend per month and online evening sessions!
 
-**Applications for Fall Quarter 2023 will open soon.**    [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted, and sign up for one of our weekly information sessions.    **The priority deadline for Fall 2023 Enrollment is July 25, 2023.**
+**Applications for Fall Quarter 2023 are now open.**   <!-- [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted, and sign up for one of our weekly information sessions.   -->  **The priority deadline for Fall 2023 Enrollment is July 25, 2023.**
 
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+            <a class="button large radius alert" href="/apply/">Apply Now ›</a>
         </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
+
+
 
 # Message from the Chair
 
@@ -47,5 +49,11 @@ Complete your degree in as few as 20 months by attending in-person classes one w
   
 
 <br clear="left"/> 
+
+<div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJ0rd-qtqD8vHt1KVs1tq8zz_QmqnzW1xxy_">Register for an Information Session</a>
+        </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 
