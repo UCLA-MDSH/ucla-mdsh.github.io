@@ -15,7 +15,7 @@ permalink: "/apply/"
 
 
 All applicants must apply online and submit application materials via UCLA’s Application for Graduate Admission. 
-You will be asked for the program name: Choose “Data Science in Health MDSH”. The GRE Code for UCLA is 4837, if you choose to submit these scores. Please be sure to fill in all sections (except personal history statement). 
+You will be asked for the program name: Choose “Data Science in Health MDSH”. The GRE Code for UCLA is 4837, if you choose to submit these scores. Please be sure to fill in all sections (except Personal Statement, which is optional). 
 <br>
 <br>
 You may only apply to one UCLA graduate program at a time. If you have already submitted a graduate application to another program, **do not try to submit another application.** Please reach out to us at mdsh.ucla.edu to have your existing application transferred to the MDSH. 
