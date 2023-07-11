@@ -34,7 +34,7 @@ Complete your degree in as few as 20 months by attending in-person classes one w
 
 
 
-# Message from the Chair
+# Message from the Senior Associate Dean
 
 
  
