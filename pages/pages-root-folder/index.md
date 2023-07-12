@@ -34,9 +34,9 @@ Complete your degree in as few as 20 months by attending in-person classes one w
 
 
 
-# Message from the Senior Associate Dean
+## Message from the Senior Associate Dean
 
-
+&emsp;
  
 <img src="images/sudipto_narrow.png" align="left" width="300px" style="margin:0 10px 0px 0"/>
 

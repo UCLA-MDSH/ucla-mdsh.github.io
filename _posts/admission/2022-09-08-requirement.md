@@ -42,15 +42,15 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 * **Resume/CV**: Full-time work experience is not required.
 
-* **Official Transcripts**: A bachelor’s degree with at least a 3.0 GPA (cumulative or upper division), or the equivalent.
+* **Official Transcripts**: A bachelor’s degree with at least a 3.0 GPA (cumulative or upper division), or the equivalent. You may apply to the program using Unofficial Transcripts.  Official transcripts will be required before enrollment. 
 
-* **Personal Statement/Statement of Purpose**. Applicants should use these statements to highlight their academic background, research, or work experience, and their qualifications to contribute to the MDSH and to the field.  Include your career goals and how the MDSH might aid in your professional growth.  
+* **Statement of Purpose**. Applicants should use these statements to highlight their academic background, research, or work experience, and their qualifications to contribute to the MDSH and to the field.  Include your career goals and how the MDSH might aid in your professional growth.  
 
 * **Three Letters of Recommendation**: Uploaded to the UCLA application site directly by your recommenders. Letters should be from a professional and/or academic source. 
 
-* **TOEFL/IELTS Scores** (international applicants only): Test of English as a Foreign Language (TOEFL) or the International English Language Testing System (IELTS) is required for applicants whose native language is not English, or who have completed post-secondary education outside of the U.S. See [University Policies and Requirements](https://grad.ucla.edu/admissions/english-requirements/).
+* **TOEFL/IELTS Scores**: Test of English as a Foreign Language (TOEFL) or the International English Language Testing System (IELTS) is required for applicants who completed their post-secondary education outside of an Anglophone country. See [University Policies and Requirements](https://grad.ucla.edu/admissions/english-requirements/) for details.  Be sure to use exactly the same personal information (name, date of birth, gender) in your UCLA Graduate Application as you did in your TOEFL/IELTS testing.
 
-* **GRE Scores** (optional). If you choose to submit GRE scores, make sure to use exactly the same personal information (name, date of birth, gender) on the GRE application as on the UCLA graduate application. 
+* **GRE Scores** (optional). If you choose to submit GRE scores, make sure to use exactly the same personal information on the GRE application as on the UCLA graduate application. 
 
 ## How to Apply
 <br>
@@ -73,7 +73,13 @@ Select **Master of Data Science in Health (MDSH)** as the major.-->
 
 <!--* **Priority Deadline**: June 1, 2023.-->
 
-The Priority deadline for 2023 Fall enrollment is **July 25, 2023.** If space is available, late applications may be considered.
+The Priority deadline for 2023 Fall enrollment is **July 25, 2023.** If space is available, late applications may be considered until August 1, 2023. 
+
+## Admisssions Timeline
+
+Applications are reviewed on a rolling basis, and admissions decisions are actively being released to applicants. 
+
+To ensure the fastest possible processing of your application, be sure to upload all required documents as soon as possible. 
 
 <!--** **Standard Deadline**: July 1, 2023.-->
 

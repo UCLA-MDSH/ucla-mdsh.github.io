@@ -30,6 +30,23 @@ permalink: /students/admittedstudents/
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+## Official Transcripts
+Official transcripts with degree conferral and date of conferral must be received by **August 15, 2023**.  If you anticipate that your transcripts will arrive later than this date, or if your degree will be conferred after this date, please reach out to us.  
+
+Official transcripts must be sent directly by your institution's Registrar in one of the following ways:
+
+**Electronic Delivery Address**: [admissions@ph.ucla.edu](admissions@ph.ucla.edu)
+
+**Physical Mailing Address**: 
+
+
+*UCLA Fielding School of Public Health*   
+*c/o Michelle Garcia*    
+*650 Charles E. Young Drive S., Room 16-068*    
+*Los Angeles, CA 90095*    
+
+
+
 ## UCLA Logon ID
 
 To create your UCLA Logon ID go to <https://accounts.iam.ucla.edu/#/>.
