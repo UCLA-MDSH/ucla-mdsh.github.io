@@ -42,7 +42,7 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 * **Resume/CV**: Full-time work experience is not required.
 
-* **Official Transcripts**: A bachelor’s degree with at least a 3.0 GPA (cumulative or upper division), or the equivalent. You may apply to the program using Unofficial Transcripts.  Official transcripts will be required before enrollment. 
+* **Official Transcripts**: A bachelor’s degree with at least a 3.0 GPA (cumulative or upper division), or the equivalent. You may apply to the program using Unofficial Transcripts.  Official transcripts will be required before enrollment. They must be sent directly by your University's Registrar Office or via Parchment to <admissions@ph.ucla.edu>.
 
 * **Statement of Purpose**. Applicants should use these statements to highlight their academic background, research, or work experience, and their qualifications to contribute to the MDSH and to the field.  Include your career goals and how the MDSH might aid in your professional growth.  
 

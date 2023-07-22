@@ -50,7 +50,7 @@ permalink: "/FAQ/"
 **A**: TOEFL iBT Home Edition and IELTS Indicator test scores received prior to June 10, 2022 can count towards UCLA minimum admission requirements for graduate degree programs. Test scores for the TOEFL iBT or IELTS Indicator exam received beyond this date cannot be considered as alternatives to the TOEFL or IELTS Academic required to meet current English language requirements.
 
 **Q**: What official documents do I need to send from my undergraduate institution?\
-**A**: The documents required depends on your home country.  Please reach out to us if you are unsure what documents you need to provide in your application.  For applicants graduating from Universities in China, the following documents are required: **Transcript, Degree Certificate, and Diploma**.  All three documents must be provided in **both Chinese and English**.  
+**A**: The documents required depends on your home country.  Please reach out to us if you are unsure what documents you need to provide in your application. Documents must be sent directly by your University's Registrar Office or via Parchment to <admissions@ph.ucla.edu>. For applicants graduating from Universities in China, the following documents are required: **Transcript, Degree Certificate, and Diploma**.  All three documents must be provided in **both Chinese and English**.  
 
 ### Academics and Student Life
 
