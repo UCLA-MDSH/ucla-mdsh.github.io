@@ -19,7 +19,7 @@ callforaction:
  style: alert
 ---
 
-Until July 25, 2023, we will hold information sessions on **Tuesdays at 5:00 PM PST**, where you will have the opportunity to meet with the Director, teaching faculty, and students. 
+Until August 1, 2023, we will hold information sessions on **Tuesdays at 5:00 PM PST**, where you will have the opportunity to meet with the Director, teaching faculty, and students. 
 
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
