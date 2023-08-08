@@ -35,7 +35,7 @@ Official transcripts with degree conferral and date of conferral must be receive
 
 Official transcripts must be sent directly by your institution's Registrar in one of the following ways:
 
-**Electronic Delivery Address**: [admissions@ph.ucla.edu](admissions@ph.ucla.edu)
+**Electronic Delivery Address**: admissions@ph.ucla.edu
 
 **Physical Mailing Address**: 
 

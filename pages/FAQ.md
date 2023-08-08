@@ -31,6 +31,13 @@ permalink: "/FAQ/"
 **Q**: I submitted my application.  When will I find out whether I have been admitted?\
 **A**: Applications are actively being reviewed on a rolling basis. The length of time it will take to release the admissions decision will depend on several factors, including the completeness of the application (transcripts, TOEFL/IELTS scores, Letter of Recommendation, etc.)  
 
+**Q**: Where do I submit my official transcripts after I've been accepted?\
+**A**: Official transcripts must be sent directly by your institution to **admissions@ph.ucla.edu** or to the following address:\
+*<center>UCLA Fielding School of Public Health</center>*
+*<center>c/o Michelle Garcia</center>*
+*<center>650 Charles E. Young Drive S., Room 16-068</center>*
+*<center>Los Angeles, CA 90095</center>*
+
 
 ### International Students
 

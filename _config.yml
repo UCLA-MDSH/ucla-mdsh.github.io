@@ -21,11 +21,13 @@ slogan: ''
 credits: '<p> Copyright &copy; <a href="https://ph.ucla.edu/departments/biostatistics/" target="_blank" style="color: #2774AE;">UCLA Department of Biostatistics</a>. All rights reserved.</p>'
 
 # The contact info to show in the footer. includes/_footer.html
-contact: '<p> Master of Data Science in Health (MDSH) Program <br>
+
+# Box 177220, Suite 51-254 CHS <br>
+# Los Angeles, CA 90095-1772 <br>
+contact: '<p>
+Master of Data Science in Health (MDSH) Program <br>
 Department of Biostatistics <br>
 UCLA Fielding School of Public Health <br>
-Box 177220, Suite 51-254 CHS <br>
-Los Angeles, CA 90095-1772 <br>
 mdsh@ucla.edu <br>
 310.825.5250 </p>'
 
