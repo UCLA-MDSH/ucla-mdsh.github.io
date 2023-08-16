@@ -9,10 +9,10 @@ header:
     image_fullwidth: "header_roadmap_2.jpg"
     
     
-callforaction:
- url: /apply/
- text: Apply Now ›
- style: alert
+# callforaction:
+#  url: /apply/
+#  text: Apply Now ›
+#  style: alert
 
 permalink           : "/contact/"
 ---

@@ -11,10 +11,10 @@ header:
 #     caption: "Training Next-Generation Health Data Scientists"
 #     caption_url: https://ph.ucla.edu/departments/biostatistics
 
-callforaction:
- url: /apply/
- text: Apply Now ›
- style: alert
+# callforaction:
+#  url: /apply/
+#  text: Apply Now ›
+#  style: alert
   
 permalink: /index.html
 homepage: true
@@ -24,15 +24,7 @@ The **UCLA Master of Data Science in Health (MDSH)** Program provides advanced t
 
 Complete your degree in as few as 20 months by attending in-person classes one weekend per month and online evening sessions!
 
-**Applications for Fall Quarter 2023 are closed.**   <!-- [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted, and sign up for one of our weekly information sessions.   -->
-
-<div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius alert" href="/apply/">Apply Now ›</a>
-        </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
-
-
+**Applications for Fall Quarter 2023 are now closed. Applications for Fall 2024 enrollment will open in late September.**   <!-- [Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted, and sign up for one of our weekly information sessions.   -->
 
 ## Message from the Senior Associate Dean
 

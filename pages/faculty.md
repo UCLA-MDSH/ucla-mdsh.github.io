@@ -12,10 +12,10 @@ header:
 #     caption_url: https://ph.ucla.edu/departments/biostatistics
 
 
-callforaction:
- url: /apply/
- text: Apply Now ›
- style: alert
+# callforaction:
+#  url: /apply/
+#  text: Apply Now ›
+#  style: alert
 
 permalink: "/faculty/"
 ---

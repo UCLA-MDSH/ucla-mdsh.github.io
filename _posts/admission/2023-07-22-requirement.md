@@ -13,10 +13,10 @@ header:
 
 permalink: /admission/requirement/
 
-callforaction:
- url: /apply/
- text: Apply Now ›
- style: alert
+# callforaction:
+#  url: /apply/
+#  text: Apply Now ›
+#  style: alert
 ---
 
 <div class="row">
@@ -59,12 +59,6 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 All applicants must apply online and submit application materials via UCLA’s [Application for Graduate Admission](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). You will be asked for the program name or major code when you apply. Choose "Data Science in Health MDSH" (Major code 00J7). The GRE Code for UCLA is 4837, if you choose to submit these scores. Please be sure to fill in all sections (except Personal Statement, which is optional). NOTE: applicants applying to the MDSH program do NOT need to submit a SOPHAS application.
 
 The application fee of $155 is devoted to the administrative cost of processing applications, and is non-refundable. 
-
-<div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius alert" href="/apply/">Apply Now ›</a>
-        </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
 
 <!--Submit an online application to [UCLA Graduate Admissions](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). 
 Select **Master of Data Science in Health (MDSH)** as the major.-->
