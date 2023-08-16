@@ -54,7 +54,7 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 ## How to Apply
 <br>
-**Applications for MDSH are now open for Fall 2023 enrollment.**  <!--[Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted. -->
+**Applications for MDSH are now closed for Fall 2023 enrollment.  Applications for 2024 enrollment will open in late September.**  <!--[Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted. -->
 
 All applicants must apply online and submit application materials via UCLA’s [Application for Graduate Admission](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). You will be asked for the program name or major code when you apply. Choose "Data Science in Health MDSH" (Major code 00J7). The GRE Code for UCLA is 4837, if you choose to submit these scores. Please be sure to fill in all sections (except Personal Statement, which is optional). NOTE: applicants applying to the MDSH program do NOT need to submit a SOPHAS application.
 
