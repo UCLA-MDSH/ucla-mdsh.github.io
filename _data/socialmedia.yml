@@ -8,10 +8,10 @@
 #   class: icon-youtube
 #   title: "Video"
 
-# - name: Twitter
-#   url: http://twitter.com/UCLA-MDSH
-#   class: icon-twitter
-#   title: "Tweets"
+- name: X
+  url: http://twitter.com/uclamdsh/
+  class: icon-twitter
+  title: ""
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/UCLA-MDSH/
@@ -34,7 +34,7 @@
 #   title: ""
 
 - name: Instagram
-  url: https://www.instagram.com/uclafsph/
+  url: https://www.instagram.com/uclamdsh/
   class: icon-instagram
   title: "Instagram"
 
@@ -49,7 +49,7 @@
 #   title: Xing Profil
 
 - name: LinkedIn
-  url: https://www.linkedin.com/school/fsph/
+  url: https://www.linkedin.com/groups/14314529/
   class: icon-linkedin
   title: "LinkedIn"
   
