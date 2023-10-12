@@ -13,10 +13,10 @@ header:
     
 permalink: /admission/infosession/
 
-# callforaction:
-#  url: /apply/
-#  text: Apply Now ›
-#  style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 ---
 
 We will hold monthly information sessions on **Tuesdays at 5:00 PM PST**, where you will have the opportunity to meet with the Director, teaching faculty, and students. 

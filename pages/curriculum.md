@@ -7,10 +7,10 @@ header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "fsph-students-900x500.jpg"
     
-# callforaction:
-#  url: /apply/
-#  text: Apply Now ›
-#  style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 
 permalink: "/curriculum/"
 ---

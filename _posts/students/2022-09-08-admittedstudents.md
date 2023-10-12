@@ -11,10 +11,10 @@ header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "jay-xu-tom-belin-900-400.jpg"
     
-# callforaction:
-#  url: /apply/
-#  text: Apply Now ›
-#  style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 
 permalink: /students/admittedstudents/
 ---
@@ -31,7 +31,9 @@ permalink: /students/admittedstudents/
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Official Transcripts
-Official transcripts with degree conferral and date of conferral must be received by **August 15, 2023**.  If you anticipate that your transcripts will arrive later than this date, or if your degree will be conferred after this date, please reach out to us.  
+After you have been admitted to the program, official transcripts with degree conferral and date of conferral must be provided.  
+
+<!--If you anticipate that your transcripts will arrive later than this date, or if your degree will be conferred after this date, please reach out to us.-->
 
 Official transcripts must be sent directly by your institution's Registrar in one of the following ways:
 

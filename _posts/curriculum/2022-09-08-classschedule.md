@@ -13,10 +13,10 @@ header:
 
 permalink: /curriculum/classschedule/
 
-# callforaction:
-#  url: /apply/
-#  text: Apply Now ›
-#  style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 ---
 
 <div class="row">

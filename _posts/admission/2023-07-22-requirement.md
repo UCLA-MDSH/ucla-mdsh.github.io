@@ -13,10 +13,10 @@ header:
 
 permalink: /admission/requirement/
 
-# callforaction:
-#  url: /apply/
-#  text: Apply Now ›
-#  style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
 ---
 
 <div class="row">
@@ -54,7 +54,7 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 ## How to Apply
 <br>
-**Applications for MDSH are now closed for Fall 2023 enrollment.  Applications for 2024 enrollment will open in late September.**  <!--[Join the list](https://uclahs.az1.qualtrics.com/jfe/form/SV_0xFyH6DBXYrRzgi) to be notified when applications are being accepted. -->
+**Applications are now open for Fall 2024 enrollment.** 
 
 All applicants must apply online and submit application materials via UCLA’s [Application for Graduate Admission](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). You will be asked for the program name or major code when you apply. Choose "Data Science in Health MDSH" (Major code 00J7). The GRE Code for UCLA is 4837, if you choose to submit these scores. Please be sure to fill in all sections (except Personal Statement, which is optional). NOTE: applicants applying to the MDSH program do NOT need to submit a SOPHAS application.
 
@@ -65,15 +65,17 @@ Select **Master of Data Science in Health (MDSH)** as the major.-->
 
 ## Deadlines
 
-<!--* **Priority Deadline**: June 1, 2023.-->
+The following deadlines apply to applications for Fall 2024 enrollment:
 
-The Priority deadline for 2023 Fall enrollment is **July 25, 2023.** If space is available, late applications may be considered until August 1, 2023. 
+Priority deadline: **February 1, 2024** 
+Regular deadline: **April 1, 2024**
+Final deadline: **June 15, 2024**
 
 ## Admisssions Timeline
 
-Applications are reviewed on a rolling basis, and admissions decisions are actively being released to applicants. 
+Applications are reviewed on a rolling basis; decisions will be released in the weeks following each deadline (priority, regular, and final deadlines). 
 
-To ensure the fastest possible processing of your application, be sure to upload all required documents as soon as possible. 
+To ensure the fastest possible processing of your application, be sure to upload all required documents.
 
 <!--** **Standard Deadline**: July 1, 2023.-->
 

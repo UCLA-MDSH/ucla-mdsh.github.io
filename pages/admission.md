@@ -7,10 +7,10 @@ header:
     title: "Training Next-Generation Health Data Scientists"
     image_fullwidth: "dickson-court-birdview-1200-900.jpeg"
     
-# callforaction:
-#  url: /apply/
-#  text: Apply Now ›
-#  style: alert
+callforaction:
+ url: /apply/
+ text: Apply Now ›
+ style: alert
   
 permalink: "/admission/"
 ---
