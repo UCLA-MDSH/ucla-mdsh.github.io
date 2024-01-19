@@ -1,7 +1,7 @@
 ---
 layout              : page
 title               : "Contact"
-meta_title          : "Contact and use our contact form"
+meta_title          : "Contact"
 subheadline         : ""
 teaser              : ""
 header:
@@ -17,7 +17,7 @@ callforaction:
 permalink           : "/contact/"
 ---
 
-Want to get in touch with us? Please email us at [mdsh@ucla.edu](mailto:mdsh@ucla.edu?subject=Question about MDSH Program) for the fastest response, or contact one of our staff below.
+Want to get in touch with us? Please email us at [mdsh@ucla.edu](mailto:mdsh@ucla.edu?subject=Question about MDSH Program) for the fastest response.
 
 
 ### Dr. Hua Zhou
