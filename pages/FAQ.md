@@ -38,6 +38,15 @@ permalink: "/FAQ/"
 *<center>650 Charles E. Young Drive S., Room 16-068</center>*
 *<center>Los Angeles, CA 90095</center>*
 
+**Q**: I am an international student. Can I be exempt from the TOEFL/IELTS requirement if my university's classes are all in English?\
+**A**: In order to be exempted from the TOEFL/IELTS requirement, not only must classes be conducted in English, but English must ALSO be the language of daily life in the country you are taking classes. At least two years of your undergraduate study must meet these requirements in order for you to be exempt. 
+
+**Q**: I just ordered my official test score to UCLA, but my application still says "Awaiting," when will it be received?\
+**A**: IELTS, TOEFL, and GRE scores take time to link to your application. This process is not instant. Please wait at least 3 weeks before reaching out to us. If you would like to send physical copies of your test scores, please use the following address: 
+*<center>UCLA Fielding School of Public Health</center>*
+*<center>Box 951772, Suite 16-068 CHS</center>*
+*<center>Los Angeles, CA 90095-1772</center>*
+
 
 ### International Students
 
