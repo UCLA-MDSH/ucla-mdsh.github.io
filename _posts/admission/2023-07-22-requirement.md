@@ -77,6 +77,10 @@ Applications are reviewed on a rolling basis; decisions will be released in the 
 
 To ensure the fastest possible processing of your application, be sure to upload all required documents.
 
+
+## Admissions Appeals
+We acknowledge the effort required to submit an application to our program and thank each applicant for their attention to creating a high-quality submission. Multiple reviewers thoroughly review all applications. The MDSH program does not consider appeals except in light of new information. New information is limited to academic qualification which may include higher GPA, grades, and certification not already included in the application. TOFEL/IELTS scores are not considered new information. Due to the volume of applications, we do not provide individual feedback on the quality of applicants nor provide suggestions on how to strengthen future applications. If you wish to submit an appeal: email (enter email address) with subject line, "Admissions Appeal" with the following content: one (1) sentence summarizing the new information, supporting documentation.
+
 <!--** **Standard Deadline**: July 1, 2023.-->
 
 <!--** **Late Admissions**: July 25, 2023 (only if space permits).-->

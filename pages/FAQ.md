@@ -47,6 +47,9 @@ permalink: "/FAQ/"
 *<center>Box 951772, Suite 16-068 CHS</center>*
 *<center>Los Angeles, CA 90095-1772</center>*
 
+**Q**: I was rejected by the MDSH program, am I able to request feedback regarding my application?\
+**A**: We acknowledge the effort required to submit an application to our program and thank each applicant for their attention to creating a high-quality submission. Due to the volume of applications, we do not provide individual feedback on the quality of applicants nor provide suggestions on how to strengthen future applications. We do, however, encourage you to strengthen your application and apply again in the future.
+
 
 ### International Students
 
