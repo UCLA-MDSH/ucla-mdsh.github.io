@@ -71,7 +71,7 @@ Priority deadline: **February 1, 2024**
 Regular deadline: **April 1, 2024**
 Final deadline: **June 15, 2024**
 
-## Admisssions Timeline
+## Admissions Timeline
 
 Applications are reviewed on a rolling basis; decisions will be released in the weeks following each deadline (priority, regular, and final deadlines). 
 
