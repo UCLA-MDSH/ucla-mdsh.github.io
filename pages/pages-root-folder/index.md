@@ -32,7 +32,7 @@ Complete your degree in as few as 20 months by attending in-person classes one w
         </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
-## Message from the Senior Associate Dean
+## Message from the Senior Associate Dean, Sudipto Banerjee, Ph.D.
 
 &emsp;
  
