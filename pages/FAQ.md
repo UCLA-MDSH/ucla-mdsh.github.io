@@ -88,9 +88,12 @@ permalink: "/FAQ/"
 **Q**: Can MDSH students live in the University dormitories?\
 **A**: Yes, although there may be a waiting list. 
 
+**Q**: What are the computer requirements for MDSH courses?\
+**A**: For the MDSH coursework, computers with a minimum of 32GB RAM and 1 TB hard disk suffice.
+
 ### Finance 
 
-**Q**: Are UCLA employees elible for a discount on tuition?\
+**Q**: Are UCLA employees eligible for a discount on tuition?\
 **A**: Since MDSH is a self-supporting graduate professional degree program, unfortunately, students are not eligible for employee discounts on tuition/fees. 
 
  
