@@ -12,6 +12,10 @@
     url: "/admission/finance"
   - title: "Information Session"
     url: "/admission/infosession"
+    
+# - title: Upcoming Events
+#   url: "/events/"
+#   side: left
 
 - title: Curriculum
   url: "/curriculum/"
@@ -32,12 +36,12 @@
     url: "/students/admittedstudents"
   # - title: "International Students"
   #   url: "/students/internationalstudents"
-  - title: "Class of 2023"
-    url: "/students/class2023"
-  - title: "Academic Calendar 23-24"
-    url: "/students/calendar2023"
-  - title: "Class Schedule 23-24"
-    url: "/students/schedule2023"
+  # - title: "Class of 2023"
+  #   url: "/students/class2023"
+  - title: "Academic Calendar"
+    url: "/students/calendar"
+  - title: "Class Schedule"
+    url: "/students/schedule"
 
 - title: Faculty
   url: "/faculty/"
