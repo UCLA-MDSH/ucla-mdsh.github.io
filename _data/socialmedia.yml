@@ -49,7 +49,8 @@
 #   title: Xing Profil
 
 - name: LinkedIn
-  url: https://www.linkedin.com/groups/14314529/
+  url: https://www.linkedin.com/in/uclamdsh/
+  #url: https://www.linkedin.com/groups/14314529/
   class: icon-linkedin
   title: "LinkedIn"
   
