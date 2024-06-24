@@ -30,10 +30,10 @@ Program Director \
 Student Affairs Officer \
 [celdridge@ph.ucla.edu](mailto:celdridge@ph.ucla.edu?subject=Question about MDSH Program)
 
-### Aubrey Jensen
+### Leah Loh
 
 Interim Program Manager \
-[aubreyjensen@ucla.edu](mailto:aubreyjensen@ucla.edu?subject=Question about MDSH Program)
+[lloh@ph.ucla.edu](mailto:lloh@ph.ucla.edu?subject=Question about MDSH Program)
 
 
 <!--
