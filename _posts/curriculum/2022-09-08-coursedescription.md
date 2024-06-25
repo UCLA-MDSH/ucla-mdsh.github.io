@@ -47,7 +47,7 @@ The MDSH is a two-year, 48 unit program, consisting of public health foundation 
 
 * **BIOSTAT 203A,B,C Introduction to Data Science** The BIOSTAT 203 3-course sequence introduces practical data science (data ingestion, data cleaning, data wrangling, data visualization and reporting, databases) and big data computing (parallel, distributed, cluster and cloud computing) skills using computer languages R, Python, SAS, SQL and Julia. Other topics include data ethics.
 
-* **BIOSTAT 100A Introduction to Biostatistics** Principles of biostatistics.
+* **BIOSTAT 201A Introduction to Biostatistics** Principles of biostatistics.
 
 * **BIOSTAT 212A,B Statistical Learning** The BIOSTAT 212 2-course sequence lays a rigorous foundation to commonly used data analytic tools for prediction, classification, and pattern recognition, with emphasis on applications to big and complex health data.
 
