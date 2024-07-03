@@ -23,7 +23,7 @@ permalink: "/FAQ/"
 ### Application and Admissions
 
 **Q**: What is the application fee for this program?\
-**A**: The standard UCLA graduate program application fee is $155. 
+**A**: The standard UCLA graduate program application fee is $135 for U.S. Citizens or Permanent Residents, or $155 for other applicants.
 
 **Q**: Do I need to have a computer science / data science background to apply?\
 **A**: No.  Strong applicants will have a background in STEM, including biological and health sciences. 

@@ -19,7 +19,7 @@ callforaction:
  style: alert
 ---
 
-We will hold monthly information sessions on **Tuesdays at 5:00 PM PST**, where you will have the opportunity to meet with the Director, teaching faculty, and students. 
+We will hold information sessions on the **first Tuesday of each month at 5:00 PM PST**, where you will have the opportunity to meet with the Director, program staff, teaching faculty, and students. 
 
 
 <div class="row t60 b60">

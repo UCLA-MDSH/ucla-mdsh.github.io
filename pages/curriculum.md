@@ -14,6 +14,9 @@ callforaction:
 
 permalink: "/curriculum/"
 ---
+
+Our students benefit from a cohort-based, cutting-edge curriculum administered by the top professors in the field, offering unparalleled opportunities in the dynamic intersection of data science and healthcare.
+
 <ul>
     {% for post in site.categories.curriculum %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>

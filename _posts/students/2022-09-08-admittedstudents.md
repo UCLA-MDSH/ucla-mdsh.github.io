@@ -61,7 +61,7 @@ If you would like your Bruin Card picked up by our team. Please complete this [a
 
 ## Title IX Training
 
-All students are required to complete **both** an online and in-person Title IX Training. This training is **mandatory**. Failure to complete both trainings will result in a registration hold being placed on your account. To register for the Title IX Training visit <https://grad.ucla.edu/titleix>. Deadline to register is **Thursday, November 3, 2022**.
+All students are required to complete **both** an online and in-person Title IX Training. This training is **mandatory**. Failure to complete both trainings will result in a registration hold being placed on your account. To register for the Title IX Training visit <https://grad.ucla.edu/titleix>. 
 
 ## Covid-19 Vaccination
 
@@ -73,7 +73,7 @@ FSPH uses the Canvas (Bruin Learn) educational platform. For Bruin Learn resourc
 
 ## Parking
 
-The closest parking lot is parking structure 8. It is located at [555 Westwood Plaza Los Angeles, CA 90095](https://map.ucla.edu/?id=83929&k=false). You will need to purchase a daily permit at the parking pay station on the top floor or through the ParkMobile app. The daily parking rate is $14.00 per day. 
+The closest parking lot is parking structure 8. It is located at [555 Westwood Plaza Los Angeles, CA 90095](https://map.ucla.edu/?id=83929&k=false). You will need to purchase a daily permit at the parking pay station on the top floor or through the ParkMobile app. 
 
 For more information, visit [here](https://transportation.ucla.edu/campus-parking/visitors) under the tab “How to Pay”.
 

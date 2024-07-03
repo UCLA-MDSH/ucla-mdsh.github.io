@@ -14,8 +14,13 @@ callforaction:
   
 permalink: "/admission/"
 ---
+
+Each fall a new cohort of MDSH students enters this two-year program. For details about admissions, we recommend carefully reviewing these four pages:
+
 <ul>
     {% for post in site.categories.admission %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+
+<li><a href="{{ site.url }}{{ site.baseurl }}/FAQ/">FAQ</a></li>
 </ul>

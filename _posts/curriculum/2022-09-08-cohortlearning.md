@@ -19,7 +19,7 @@ callforaction:
 permalink: /curriculum/cohortlearning/
 ---
 
-MDSH Students come with diverse academic and professional backgrounds, yet share a similar goal to gain data science skills and credentials that will enable them to expand their scope of professional expertise. This program’s executive-style schedule features the same curriculum that has made the UCLA Fielding School of Public Health an internationally recognized leader in public health, bu in a format that recognizes the many priorities in a student’s life including family and career. 
+MDSH Students come with diverse academic and professional backgrounds, yet share a similar goal to gain data science skills and credentials that will enable them to expand their scope of professional expertise. This program’s executive-style schedule features the same curriculum that has made the UCLA Fielding School of Public Health an internationally recognized leader in public health, but in a format that recognizes the many priorities in a student’s life including family and career. 
 
 The program caters to working professionals by providing a convenient schedule of classes that introduces the principles, theories, and methods of health data science.
 

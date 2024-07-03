@@ -42,7 +42,7 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 
 * **Resume/CV**: Full-time work experience is not required.
 
-* **Official Transcripts**: A bachelor’s degree with at least a 3.0 GPA (cumulative or upper division), or the equivalent. You may apply to the program using Unofficial Transcripts.  Official transcripts will be required before enrollment. They must be sent directly by your University's Registrar Office or via Parchment to <admissions@ph.ucla.edu>.
+* **Official Transcripts**: A bachelor’s degree with at least a 3.0 cumulative GPA, or the equivalent. You may apply to the program using Unofficial Transcripts.  Official transcripts will be required before enrollment. They must be sent directly by your University's Registrar Office or via Parchment to <admissions@ph.ucla.edu>.
 
 * **Statement of Purpose**. Applicants should use these statements to highlight their academic background, research, or work experience, and their qualifications to contribute to the MDSH and to the field.  Include your career goals and how the MDSH might aid in your professional growth.  
 
@@ -53,12 +53,15 @@ The **Master of Data Science in Health (MDSH)** applicants are expected to fulfi
 * **GRE Scores** (optional). If you choose to submit GRE scores, make sure to use exactly the same personal information on the GRE application as on the UCLA graduate application. 
 
 ## How to Apply
-<br>
-**Applications are now open for Fall 2024 enrollment.** 
 
-All applicants must apply online and submit application materials via UCLA’s [Application for Graduate Admission](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). You will be asked for the program name or major code when you apply. Choose "Data Science in Health MDSH" (Major code 00J7). The GRE Code for UCLA is 4837, if you choose to submit these scores. Please be sure to fill in all sections (except Personal Statement, which is optional). NOTE: applicants applying to the MDSH program do NOT need to submit a SOPHAS application.
+All applicants must apply online and submit application materials via UCLA’s [Application for Graduate Admission](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). 
+* Program name: Data Science in Health MDSH (**Major code** 00J7).
+* The **GRE** Code for UCLA is 4837, if you choose to submit these scores. 
+* Please be sure to fill in all required sections. 
+  * The Personal Statement is optional.
+  * A SOPHAS application is not needed.
 
-The application fee of $155 is devoted to the administrative cost of processing applications, and is non-refundable. 
+The application fee is $135 for U.S. Citizens or Permanent Residents, or $155 for other applicants. The application fee is devoted to the administrative cost of processing applications, and is non-refundable. 
 
 <!--Submit an online application to [UCLA Graduate Admissions](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/). 
 Select **Master of Data Science in Health (MDSH)** as the major.-->
@@ -74,13 +77,15 @@ Final deadline: **June 15, 2024** <br>
 
 ## Admissions Timeline
 
-Applications are reviewed on a rolling basis; decisions will be released in the weeks following each deadline (priority, regular, and final deadlines). 
+Applications are reviewed on a rolling basis; decisions will be released in the 4-6 weeks following each deadline (priority, regular, and final deadlines). 
 
-To ensure the fastest possible processing of your application, be sure to upload all required documents.
+The length of time it will take to release the admissions decision will depend on several factors, including the completeness of the application (transcripts, TOEFL/IELTS scores, Letter of Recommendation, etc.). To ensure the fastest possible processing of your application, be sure to upload all required documents.
 
 
 ## Admissions Appeals
-We acknowledge the effort required to submit an application to our program and thank each applicant for their attention to creating a high-quality submission. Multiple reviewers thoroughly review all applications. The MDSH program does not consider appeals except in light of new information. New information is limited to academic qualification which may include higher GPA, grades, and certification not already included in the application. TOFEL/IELTS scores are not considered new information. Due to the volume of applications, we do not provide individual feedback on the quality of applicants nor provide suggestions on how to strengthen future applications. If you wish to submit an appeal: email <mdsh@ucla.edu> with subject line, "Admissions Appeal" with the following content: one (1) sentence summarizing the new information, supporting documentation.
+We acknowledge the effort required to submit an application to our program and thank each applicant for their attention to creating a high-quality submission. Multiple reviewers thoroughly review all applications. The MDSH program does not consider appeals except in light of new information. New information is limited to academic qualification which may include higher GPA, grades, and certification not already included in the application. TOFEL/IELTS scores are not considered new information. Due to the volume of applications, we do not provide individual feedback on the quality of applicants nor provide suggestions on how to strengthen future applications. If you wish to submit an appeal: email <mdsh@ucla.edu> with subject line, "Admissions Appeal" with the following content: 
+* A one sentence summary of the new information
+* Relevant supporting documentation
 
 <!--** **Standard Deadline**: July 1, 2023.-->
 
