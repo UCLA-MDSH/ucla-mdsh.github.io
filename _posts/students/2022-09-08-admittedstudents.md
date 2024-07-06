@@ -31,23 +31,17 @@ permalink: /students/admittedstudents/
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Official Transcripts
-After you have been admitted to the program, official transcripts with degree conferral and date of conferral must be provided.  
 
-<!--If you anticipate that your transcripts will arrive later than this date, or if your degree will be conferred after this date, please reach out to us.-->
-
-Official transcripts must be sent directly by your institution's Registrar in one of the following ways:
+After you have been admitted to the program, official transcripts with degree conferral and date of conferral must be provided. Official transcripts must be sent directly by your institution's Registrar in one of the following ways:
 
 **Electronic Delivery Address**: admissions@ph.ucla.edu
 
 **Physical Mailing Address**: 
 
-
 *UCLA Fielding School of Public Health*   
 *c/o Michelle Garcia*    
 *650 Charles E. Young Drive S., Room 16-068*    
 *Los Angeles, CA 90095*    
-
-
 
 ## UCLA Logon ID
 
@@ -55,9 +49,7 @@ To create your UCLA Logon ID go to <https://accounts.iam.ucla.edu/#/>.
 
 ## Student ID (BruinCard)
 
-To access the building on Saturday and Sunday you will need a Bruin Card. It is best to [apply online](https://secure.bruincard.ucla.edu/bcw/web/Home.aspx), submit your photo and pick it up once you are on campus. 
-
-If you would like your Bruin Card picked up by our team. Please complete this [authorization form](https://www.mphhp.ph.ucla.edu/s/Third-Party-Pick-Up-Authorization-Form.pdf) and email it to our Student Affairs Officer Roxy Naranjo at <rlnaranjo@ph.ucla.edu>.
+To access the building on Saturday and Sunday you will need a Bruin Card. It is best to [apply online](https://secure.bruincard.ucla.edu/bcw/web/Home.aspx) and submit your photo. The MDSH program will pick up your Bruin Card and have it available for you at the program orientation. Please complete this [authorization form](https://www.mphhp.ph.ucla.edu/s/Third-Party-Pick-Up-Authorization-Form.pdf) and email it to our Student Affairs Officer Chandler Eldridge at <celdridge@ph.ucla.edu>.
 
 ## Title IX Training
 
@@ -67,7 +59,7 @@ All students are required to complete **both** an online and in-person Title IX 
 
 Full vaccination is required for all UCLA students, faculty & staff. Use this [portal](https://uclasurveys.co1.qualtrics.com/jfe/form/SV_3qRLtouCYKzBbH7) to verify your vaccination status or exemption. You can also visit the [UCLA COVID-19 Action Center](https://www.studenthealth.ucla.edu/ucla-covid-19-action-center) for more information.
 
-## Canvas
+## Bruin Learn
 
 FSPH uses the Canvas (Bruin Learn) educational platform. For Bruin Learn resources and a tutorial, visit [here](https://bruinlearn.ucla.edu/courses/288/modules) and scroll down to students. 
 
