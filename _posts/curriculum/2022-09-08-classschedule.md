@@ -44,18 +44,17 @@ MDSH students typically take 2 courses per quarter and complete the program in 6
 
 | Year | Fall Quarter               | Winter Quarter                    | Spring Quarter                    |
 |------|----------------------------|-----------------------------------|-----------------------------------|
-| 1    | BIOSTAT 203A Data Management and Statistical Computing  | BIOSTAT 203B Data Science in R    | BIOSTAT 203C Data Science in Python |
-|      | BIOSTAT 201A Introduction to Biostatistics | BIOSTAT 212A Statistical Learning | BIOSTAT 212B Statistical Learning |
-| 2    | PUBHLT C201 Public Health  | Elective 2                        | Elective 4                        |
-|      | Elective 1                 | Elective 3                        | BIOSTAT 401 Capstone              |
+| 1    | BIOSTAT 203A Data Management and Statistical Computing <br> <br> BIOSTAT 201A Introduction to Biostatistics | BIOSTAT 203B Data Science in R <br> <br>  BIOSTAT 212A Statistical Learning   | BIOSTAT 203C Data Science in Python <br> <br> BIOSTAT 212B Statistical Learning |
+| 2    | PUBHLT C201 Public Health <br> <br> Elective 1 | Elective 2 <br> <br> Elective 3  | Elective 4 <br> <br> BIOSTAT 401 Capstone |
+
+
 
 ## Quarter Schedule 
 
 In each academic quarter with two courses, MDSH students take in-person classes on UCLA campus for three weekends and two online, synchronous sessions per week for seven weeks.
 
-| Week | Tuesday (online)   | Thursday (online)  |            Saturday | (in-person)          |              Sunday | (in-person)          |
+| <br> <br> <br>Week | Tuesday <br> (online) <br> <br> Evening <br> (5p-7:30p PT)| Thursday <br> (online) <br> <br> Evening <br> (5p-7:30p PT)| Saturday <br> (in-person) <br> <br> Morning <br> (8:30a-11:50a PT)|  <br> <br> <br> Afternoon <br> (1p-4:20p PT)| Sunday <br> (in-person) <br> <br> Morning <br> (8:30a-11:50p PT) | <br>  <br> <br> Afternoon <br> (1p-4:20p PT) |
 |------|--------------------|--------------------|--------------------:|----------------------|--------------------:|----------------------|
-|      | Evening (5p-7:30p PT) | Evening (5p-7:30p PT) | Morning (8:30a-11:50a PT) | Afternoon (1p-4:20p PT) | Morning (8:30a-11:50p PT) | Afternoon (1p-4:20p PT) |
 | 1    |                    |                    | Course 1            | Course 2             | Course 1            | Course 2             |
 | 2    |                    | Course 2           |                     |                      |                     |                      |
 | 3    | Course 1           | Course 2           |                     |                      |                     |                      |
