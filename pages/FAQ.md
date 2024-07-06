@@ -50,11 +50,13 @@ permalink: "/FAQ/"
 **Q**: I was rejected by the MDSH program, am I able to request feedback regarding my application?\
 **A**: We acknowledge the effort required to submit an application to our program and thank each applicant for their attention to creating a high-quality submission. Due to the volume of applications, we do not provide individual feedback on the quality of applicants nor provide suggestions on how to strengthen future applications. We do, however, encourage you to strengthen your application and apply again in the future.
 
+**Q**: What is the admission rate of the MDSH program?\
+**A**: The MDSH program was established in 2023-2024 and no data is available yet. Program statistics, when available, will be published by [UCLA Graduate Division](https://grad.ucla.edu/programs/school-of-public-health/biostatistics-department/data-science-in-health/).
 
 ### International Students
 
 **Q**: What type of Visa can international students receive? \
-**A**: Graduate students taking at least 8 credit hours in Fall, Winter, and Spring quarters are considered full-time for visa reporting purposes. 
+**A**: Graduate students taking at least 8 credit hours, equivalent of 2 MDSH courses, in Fall, Winter, and Spring quarters are considered full-time for F1 visa reporting purposes. 
 
 **Q**: Are international students in this program eligible for OPT?\
 **A**: Yes.  Students also qualify for the [STEM OPT extension](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt).
@@ -73,20 +75,20 @@ permalink: "/FAQ/"
 
 ### Academics and Student Life
 
-**Q**: Is it possible to enroll in this program at the same as another UCLA degree program?\
-**A**: Taking two UCLA degree programs at the same time is called mixed enrollment. Because MDSH is a new degree program, it is not yet set up for this. We hope to allow mixed enrollment with MDSH in the 2024-2025 academic year.
+**Q**: Is it possible to enroll in this program at the same time as another UCLA degree program?\
+**A**: Taking two UCLA degree programs at the same time is called mixed enrollment. Because MDSH is a new degree program, it is not yet set up for this. We hope to allow mixed enrollment with MDSH in future years.  
 
 **Q**: Can students enrolled in this program also take other non-MDSH courses at UCLA?\
-**A**: As of the 2023-2024 academic year, no.  We hope to expand MDSH students' eligibility for other courses in the future. 
+**A**: MDSH students can take non-MDSH courses at UCLA. However, non-MDSH courses do not count towards the 48-unit requirement for the MDSH program and students will be charged extra tuition. 
 
 **Q**: If I have a recent MPH degree from UCLA, can some of the classes be waived?\
-**A**: At the moment, no. In the future, we hope to allow mixed enrollment with the MDSH, which may allow for waiving certain classes. 
+**A**: The Public Heath C201 course can be waived if you got a degree from a [CEPH-accredited School of Public Health](https://ceph.org/about/org-info/who-we-accredit/accredited/). You have to take an extra MDSH elective to satisfy the 48-unit requirement of the MDSH program.  
 
 **Q**: Upon degree completion, will the transcript or degree state that the program was completed in hybrid mode, or part-time?\
 **A**: No.  Neither the transcript nor Degree will mention the hybrid course mode.  The MDSH program is considered a full-time program for F-1 Visa purposes, however, domestic students are welcome to take the program part-time. Transcripts will reflect each student's actual course enrollment per quarter. 
 
 **Q**: Can MDSH students live in the University dormitories?\
-**A**: Yes, although there may be a waiting list. 
+**A**: Yes, although there may be a waiting list. Please contact the [UCLA Housing](https://portal.housing.ucla.edu/) for more information. 
 
 **Q**: What are the computer requirements for MDSH courses?\
 **A**: For the MDSH coursework, computers with a minimum of 32GB RAM and 1 TB hard disk suffice.
@@ -96,7 +98,6 @@ permalink: "/FAQ/"
 **Q**: Are UCLA employees eligible for a discount on tuition?\
 **A**: Since MDSH is a self-supporting graduate professional degree program, unfortunately, students are not eligible for employee discounts on tuition/fees. 
 
- 
 
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
