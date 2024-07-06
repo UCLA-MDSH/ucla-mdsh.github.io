@@ -51,21 +51,22 @@ MDSH students typically take 2 courses per quarter and complete the program in 6
 
 ## Quarter Schedule 
 
-In each academic quarter with two courses, MDSH students take in-person classes on UCLA campus for three weekends and two online, synchronous sessions per week for eight weeks.
+In each academic quarter with two courses, MDSH students take in-person classes on UCLA campus for three weekends and two online, synchronous sessions per week for seven weeks.
 
 | Week | Tuesday (online)   | Thursday (online)  |            Saturday | (in-person)          |              Sunday | (in-person)          |
 |------|--------------------|--------------------|--------------------:|----------------------|--------------------:|----------------------|
-|      | Evening (5p-7p PT) | Evening (5p-7p PT) | Morning (8a-12p PT) | Afternoon (1p-5p PT) | Morning (8a-12p PT) | Afternoon (1p-5p PT) |
-| 1    |                    |                    |                     |                      |                     |                      |
-| 2    |                    |                    | Course 1            | Course 2             | Course 1            | Course 2             |
+|      | Evening (5p-7:30p PT) | Evening (5p-7:30p PT) | Morning (8:30a-11:50a PT) | Afternoon (1p-4:20p PT) | Morning (8:30a-11:50p PT) | Afternoon (1p-4:20p PT) |
+| 1    |                    |                    | Course 1            | Course 2             | Course 1            | Course 2             |
+| 2    |                    | Course 2           |                     |                      |                     |                      |
 | 3    | Course 1           | Course 2           |                     |                      |                     |                      |
 | 4    | Course 1           | Course 2           |                     |                      |                     |                      |
-| 5    | Course 1           | Course 2           |                     |                      |                     |                      |
-| 6    | Course 1           | Course 2           | Course 1            | Course 2             | Course 1            | Course 2             |
+| 5    | Course 1           |                    | Course 1            | Course 2             | Course 1            | Course 2             |
+| 6    |                    | Course 2           |                     |                      |                     |                      |
 | 7    | Course 1           | Course 2           |                     |                      |                     |                      |
 | 8    | Course 1           | Course 2           |                     |                      |                     |                      |
-| 9    | Course 1           | Course 2           |                     |                      |                     |                      |
-| 10   | Course 1           | Course 2           | Course 1            | Course 2             | Course 1            | Course 2             |
+| 9    | Course 1           |                    | Course 1            | Course 2             | Course 1            | Course 2             |
+| 10   |                    | Course 2           |                     |                      |                     |                      |
+| 11   | Course 1           |                    |                     |                      |                     |                      |
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
