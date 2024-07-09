@@ -49,7 +49,7 @@ To create your UCLA Logon ID go to <https://accounts.iam.ucla.edu/#/>.
 
 ## Student ID (BruinCard)
 
-To access the building on Saturday and Sunday you will need a BruinCard. It is best to [apply online](https://secure.bruincard.ucla.edu/bcw/web/Home.aspx) and submit your photo no later than August 31st, 2024 to ensure it is ready by orientation. Once you submit your photo, you will receive two emails, one indicating that your picture was received, and another email indicating whether your photo was approved or not. Please disregard the second email's message about coming to the office to pick up your card. The MDSH program will pick up your BruinCard and have it available for you at the program orientation. Please complete this [authorization form](https://www.mphhp.ph.ucla.edu/s/Third-Party-Pick-Up-Authorization-Form.pdf) and email it to our Student Affairs Officer Chandler Eldridge at <celdridge@ph.ucla.edu>.
+To access the building on Saturday and Sunday you will need a BruinCard. It is best to [apply online](https://secure.bruincard.ucla.edu/bcw/web/Home.aspx) and submit your photo no later than August 31st, 2024 to ensure it is ready by orientation. Once you submit your photo, you will receive two emails, one indicating that your picture was received, and another email indicating whether your photo was approved or not. Please disregard the second email's message about coming to the office to pick up your card. The MDSH program will pick up your BruinCard and have it available for you at the program orientation. 
 
 ## Title IX Training
 
