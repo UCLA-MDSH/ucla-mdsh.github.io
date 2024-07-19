@@ -17,8 +17,7 @@ callforaction:
 permalink           : "/contact/"
 ---
 
-Want to get in touch with us? Please email us at [mdsh@ucla.edu](mailto:mdsh@ucla.edu?subject=Question about MDSH Program) for the fastest response.
-
+Want to get in touch with us? To ensure you receive timely support, we recommend reviewing our extensive [FAQ]({{ site.url }}{{ site.baseurl }}{% link pages/FAQ.md %}) first. Should your question remain unresolved, please do not hesitate to email our team at [mdsh@ucla.edu](mailto:mdsh@ucla.edu?subject=Question about MDSH Program) for further assistance.
 
 ### Dr. Hua Zhou
 
