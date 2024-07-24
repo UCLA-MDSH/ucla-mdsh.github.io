@@ -53,7 +53,9 @@ MDSH students typically take 2 courses per quarter and complete the program in 6
 
 In each academic quarter with two courses, MDSH students take in-person classes on UCLA campus for three weekends and two online, synchronous sessions per week for seven weeks.
 
-| <br> <br> <br>Week | Tuesday <br> (online) <br> <br> Evening <br> (5p-7:30p PT)| Thursday <br> (online) <br> <br> Evening <br> (5p-7:30p PT)| Saturday <br> (in-person) <br> <br> Morning <br> (8:30a-11:50a PT)|  <br> <br> <br> Afternoon <br> (1p-4:20p PT)| Sunday <br> (in-person) <br> <br> Morning <br> (8:30a-11:50p PT) | <br>  <br> <br> Afternoon <br> (1p-4:20p PT) |
+<!--
+
+| <br> <br> <br>Week | Tuesday <br> (online) <br> <br> Evening <br> 5-7:30pm| Thursday <br> (online) <br> <br> Evening <br> 5-7:30pm| Saturday <br> (in-person) <br> <br> Morning <br> 8:30-11:50am|  <br> <br> <br> Afternoon <br> 1-4:20pm| Sunday <br> (in-person) <br> <br> Morning <br> 8:30-11:50am | <br>  <br> <br> Afternoon <br> 1-4:20pm |
 |------|--------------------|--------------------|--------------------:|----------------------|--------------------:|----------------------|
 | 1    |                    |                    | Course 1            | Course 2             | Course 1            | Course 2             |
 | 2    |                    | Course 2           |                     |                      |                     |                      |
@@ -66,6 +68,12 @@ In each academic quarter with two courses, MDSH students take in-person classes 
 | 9    | Course 1           |                    | Course 1            | Course 2             | Course 1            | Course 2             |
 | 10   |                    | Course 2           |                     |                      |                     |                      |
 | 11   | Course 1           |                    |                     |                      |                     |                      |
+
+-->
+
+<!-- Just use a static image instead (1000px just to make sure it takes up whole center portion of screen) -->
+<img src="/images/class_schedule_img.png" align="left" width="1000px" style="margin:0px 10px 0px 0px"/>
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
