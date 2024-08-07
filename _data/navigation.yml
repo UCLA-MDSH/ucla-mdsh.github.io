@@ -17,6 +17,10 @@
 #   url: "/events/"
 #   side: left
 
+- title: Events
+  url: "/events_calendar/"
+  side: left
+
 - title: Curriculum
   url: "/curriculum/"
   side: left
@@ -47,9 +51,9 @@
   url: "/faculty/"
   side: left
 
-- title: News
-  url: "/blog/"
-  side: left
+# - title: News
+#   url: "/blog/"
+#   side: left
   
 - title: FAQ
   url: "/FAQ/"
