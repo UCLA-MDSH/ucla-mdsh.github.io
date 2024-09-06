@@ -47,6 +47,11 @@ After you have been admitted to the program, official transcripts with degree co
 
 To create your UCLA Logon ID go to <https://accounts.iam.ucla.edu/#/>.
 
+## Student Handbook
+
+For a checklist of important steps for newly admitted students, as well as other important information about the program, please see the [Student Handbook](/docs/MDSH_Student_Handbook_Fall_2024.pdf).
+
+
 ## Student ID (BruinCard)
 
 To access the building on Saturday and Sunday you will need a BruinCard. It is best to [apply online](https://secure.bruincard.ucla.edu/bcw/web/Home.aspx) and submit your photo no later than August 31st, 2024 to ensure it is ready by orientation. Once you submit your photo, you will receive two emails, one indicating that your picture was received, and another email indicating whether your photo was approved or not. Please disregard the second email's message about coming to the office to pick up your card. The MDSH program will pick up your BruinCard and have it available for you at the program orientation. 
