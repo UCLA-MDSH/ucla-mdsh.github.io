@@ -61,7 +61,7 @@ MDSH students take at least 4 elective courses from the following list.
 * **BIOSTAT 217 Health Decision Making** The course will provide a data analytic perspective to medical decision making in contemporary clinical research and development. Students in this course will be introduced to the evidence-based and model-based approaches in decision sciences by properly harnessing the increasingly complex and large body of information. Particular emphasis will be placed on quantitative data analysis within the Bayesian and frequentist paradigms of statistical modeling and their connections to medical decision making. The course will adopt a hands-on approach to data analysis and medical decision making by incorporating a rich and diverse set of examples from actual clinical trials and other areas of medical research.
 -->
 
-* **BIOSTAT 215 Survival Analysis** Data science methods for survival and life time data.
+* **BIOSTAT M215 Survival Analysis** Data science methods for survival and life time data.
 
 * **BIOSTAT 231 Statistical Power and Sample Size Methods for Health Research** Sample size and power analysis methods for common study designs, including comparisons of means and proportions, ANOVA, time-to-event data, group sequential trials, linear regression, cluster randomized trials and multilevel data, with emphasis on designing randomized trials. Discussion also of multiple endpoints.
 
