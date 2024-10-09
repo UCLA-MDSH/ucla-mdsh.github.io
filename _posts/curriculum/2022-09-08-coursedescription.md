@@ -57,7 +57,9 @@ MDSH students take at least 4 elective courses from the following list.
 
 * **BIOSTAT 218 Observational Health Data Science and Informatics** An introduction to observational research in the health data sciences. Topics include disease cohort characterization, patient-level prediction and population-level estimation using administrative claims and electronic health records. Lectures will cover an introduction of observational health databases, a common data model for representing patient trajectories through healthcare systems, tools to manipulate data while preserving patient privacy theory of patient-level prediction and casual inference from observational data, and best practices for generating reproducible and reliable observational studies. Introductory theory will demonstrate how linear and generalized linear modeling is used in observational studies. Weekly practical laboratories will demonstrate the methods discussed in lecture. Laboratories will use SQL and R software, and regular homework assignments will re-enforce theoretical work with practical application using large-scale synthetic and real-world example databases. Students will design and complete a data analysis project that reflects the best practices covered in this course and translate their results into an oral presentation and written report.
 
+<!--
 * **BIOSTAT 217 Health Decision Making** The course will provide a data analytic perspective to medical decision making in contemporary clinical research and development. Students in this course will be introduced to the evidence-based and model-based approaches in decision sciences by properly harnessing the increasingly complex and large body of information. Particular emphasis will be placed on quantitative data analysis within the Bayesian and frequentist paradigms of statistical modeling and their connections to medical decision making. The course will adopt a hands-on approach to data analysis and medical decision making by incorporating a rich and diverse set of examples from actual clinical trials and other areas of medical research.
+-->
 
 * **BIOSTAT 215 Survival Analysis** Data science methods for survival and life time data.
 
@@ -67,7 +69,13 @@ MDSH students take at least 4 elective courses from the following list.
 
 * **BIOSTAT M236 Longitudinal Data** Analysis of continuous responses for which multivariate normal model may be assumed. Students learn how to think about longitudinal data, plot data, and how to specify mean and variance of longitudinal response. Advanced topics include introductions to clustered, multivariate, and discrete longitudinal data.
 
+<!--
 * **BIOSTAT 410 Clinical Trials** Design of studies to assess anti-tumor response; randomization, historical controls, p-values, size of study, and stratification in human experimentation; various types of controls; prognostic factors, survivorship studies, and design of prognostic studies; organization of clinical trials – administration comparability, protocols, clinical standards, data collection and management.
+-->
+
+* **BIOSTAT 285 Advanced Topics. Machine Learning: Healthcare, Economics, and LLM** This course provides an introduction to modern methods in health data science, focusing on the intersection of machine learning, game theory, and economic principles, particularly in the context of decision-making and interactions between multiple self-interested participants. Topics include advanced patient-level prediction, population-level estimation, and the application of large language models (LLMs) to healthcare data. Homework assignments will focus on applying theoretical concepts to practical scenarios. By the end of the course, students will design and complete a data analysis project that incorporates best practices in machine learning and healthcare, translating their results into both an oral presentation and a written report.
+
+* **BIOSTAT 285 Advanced Topics. Deep learning: a statistical perspective** The goal of this course is to study deep learning methodologies and identify related statistical issues. The content includes selected topics from the following: pre-deep-learning methods such as feature extraction and discrimination; components of well-established machine learning tools (support vector machines, reproducing kernel Hilbert spaces, model complexity, sparse models); history of neural networks; multi-layer-perceptron; backpropagation; convolutional neural networks; transformer networks; variational inference; generative adversarial networks; optimization and regularization; visualization; Python and deep learning frameworks. 
 
 ## MDSH Capstone (4 units)
 
