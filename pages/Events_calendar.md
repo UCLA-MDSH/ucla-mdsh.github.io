@@ -45,7 +45,7 @@ permalink: "/events_calendar/"
 <body>
     <div class="iframe-container">
 
-<iframe src="https://calendar.google.com/calendar/embed?wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&showTitle=0&showPrint=0&src=Y185OTUyNmRlYjQyZGQxZWRkZTQzNzdiN2YzNDU5Zjc4MGRlMWUwZmY2OTEyMjBjYWY5ZTAzZWQ5NWM1NDA4NGMzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183NmY2N2RkNjMzYjA4OTkyZDNiMjBlY2ExMjUwZjJiODNmZDllNTJiZThjMGE4YWJjM2VhNmI3YjQwMDRkYzg4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183NDc2YTZiYjMyNDBiNTdmMTUxNTI2YmJiZjRiZTE3YjVlMGFjYzY0OTdhMjRmYWYxMGU4MGE3NGZhODQ1ZTBkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4&color=%23A79B8E&color=%23AD1457" style="border:solid 1px #777" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&showTitle=0&showPrint=0&src=Y185OTUyNmRlYjQyZGQxZWRkZTQzNzdiN2YzNDU5Zjc4MGRlMWUwZmY2OTEyMjBjYWY5ZTAzZWQ5NWM1NDA4NGMzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183NmY2N2RkNjMzYjA4OTkyZDNiMjBlY2ExMjUwZjJiODNmZDllNTJiZThjMGE4YWJjM2VhNmI3YjQwMDRkYzg4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19mODYwYTUxZDc5YmQwNjU4MzYyNWI5ZDQzZTJlZThiNmUxZjNiNTZkYmYzM2YzYWMzZDFiYmZjMTc4YmI5YmY4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4&color=%23A79B8E&color=%23AD1457" style="border:solid 1px #777" frameborder="0" scrolling="no"></iframe>
 
     </div>
 </body>
