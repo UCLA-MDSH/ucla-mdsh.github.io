@@ -67,6 +67,9 @@ permalink: "/FAQ/"
 **Q**: Do international students need to obtain a score of 87 on TOEFL?\
 **A**: If English is not your first language, and you do not hold a bachelor’s or higher degree from an Anglophone country, you will need to certify your proficiency in English by receiving the minimum overall band score or above on TOEFL or IELTS. This is a mandatory UCLA policy. [Learn more here.](https://grad.ucla.edu/admissions/english-requirements/#:~:text=Minimum%20IELTS%20%26%20TOEFL%20Scores&text=Your%20TOEFL%20score%20on%20the,as%20noted%20in%20Departmental%20Information.)
 
+**Q**: Can I still apply for MDSH if my overall TOEFL score is above the minimum (87) but one of my individual section scores falls under the minimum?\
+**A**: Yes, you are still eligible. The individual section score minimums found here are meant to give you an idea of what a typical strong candidate achieves in each section, however, these are not enforced requirements.
+
 **Q**: Can the home edition of TOEFL be used when applying for this program?\
 **A**: For applicants for Fall 2023 enrollment, yes.  For subsequent application cycles, TOEFL iBT Home Edition and IELTS Indicator test scores received prior to June 10, 2022 can count towards UCLA minimum admission requirements for graduate degree programs. Test scores for the TOEFL iBT or IELTS Indicator exam received beyond this date cannot be considered as alternatives to the TOEFL or IELTS Academic required to meet current English language requirements.
 
