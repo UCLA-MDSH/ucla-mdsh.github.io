@@ -24,16 +24,25 @@ Want to get in touch with us? To ensure you receive timely support, we recommend
 Program Director \
 [huazhou@ucla.edu](mailto:huazhou@ucla.edu?subject=Question about MDSH Program)
 
+### Leah Loh
+
+Interim Associate Director \
+[lloh@ph.ucla.edu](mailto:lloh@ph.ucla.edu?subject=Question about MDSH Program)
+
 ### Chandler Eldridge
 
 Student Affairs Officer \
 [celdridge@ph.ucla.edu](mailto:celdridge@ph.ucla.edu?subject=Question about MDSH Program)
 
-### Leah Loh
+### Mia Giordano
 
-Interim Program Manager \
-[lloh@ph.ucla.edu](mailto:lloh@ph.ucla.edu?subject=Question about MDSH Program)
+Project Coordinator \
+[mgiordano@ph.ucla.edu](mailto:mgiordano@ph.ucla.edu?subject=Question about MDSH Program)
 
+### Aubrey Jensen
+
+Tech Support \
+[aubreyjensen@ucla.edu](mailto:aubreyjensen@ucla.edu?subject=Question about MDSH Program)
 
 <!--
 ```{=html}
