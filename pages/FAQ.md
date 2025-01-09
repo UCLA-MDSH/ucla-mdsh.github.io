@@ -38,25 +38,22 @@ permalink: "/FAQ/"
 *<center>650 Charles E. Young Drive S., Room 16-068</center>*
 *<center>Los Angeles, CA 90095</center>*
 
-**Q**: I am an international student. Can I be exempt from the TOEFL/IELTS requirement if my university's classes are all in English?\
-**A**: In order to be exempted from the TOEFL/IELTS requirement, not only must classes be conducted in English, but English must ALSO be the language of daily life in the country you are taking classes. At least two years of your undergraduate study must meet these requirements in order for you to be exempt. 
-
-**Q**: I just ordered my official test score to UCLA, but my application still says "Awaiting," when will it be received?\
-**A**: IELTS, TOEFL, and GRE scores take time to link to your application. This process is not instant. Please wait at least 3 weeks before reaching out to us. If you would like to send physical copies of your test scores, please use the following address: 
-*<center>UCLA Fielding School of Public Health</center>*
-*<center>Box 951772, Suite 16-068 CHS</center>*
-*<center>Los Angeles, CA 90095-1772</center>*
-
 **Q**: I was rejected by the MDSH program, am I able to request feedback regarding my application?\
 **A**: We acknowledge the effort required to submit an application to our program and thank each applicant for their attention to creating a high-quality submission. Due to the volume of applications, we do not provide individual feedback on the quality of applicants nor provide suggestions on how to strengthen future applications. We do, however, encourage you to strengthen your application and apply again in the future.
 
 **Q**: What is the admission rate of the MDSH program?\
 **A**: The MDSH program was established in 2023-2024 and no data is available yet. Program statistics, when available, will be published by [UCLA Graduate Division](https://grad.ucla.edu/programs/school-of-public-health/biostatistics-department/data-science-in-health/).
 
-### International Students
+### International Students: Visas and Admissions
 
 **Q**: What type of Visa can international students receive? \
 **A**: Graduate students taking at least 8 credit hours, equivalent of 2 MDSH courses, in Fall, Winter, and Spring quarters are considered full-time for F1 visa reporting purposes. 
+
+**Q**: I am an international student. Can I be exempt from the TOEFL/IELTS requirement if my university's classes are all in English?\
+**A**: In order to be exempted from the TOEFL/IELTS requirement, not only must classes be conducted in English, but English must ALSO be the language of daily life in the country you are taking classes. At least two years of your undergraduate study must meet these requirements in order for you to be exempt. 
+
+**Q**: How can I make sure UCLA receives my official TOEFL/IELTS score?\
+**A**: Official TOEFL score reports are sent electronically upon your request from ETS to UCLA (institution code 4837). Official scores are required for admission but not for application. Applicants who are submitting an IELTS score must email their Test Report Form (TRF) number to mdsh@ucla.edu. The Admissions Team will then download and attach your official score report.
 
 **Q**: Are international students in this program eligible for OPT?\
 **A**: Yes.  Students also qualify for the [STEM OPT extension](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt).
