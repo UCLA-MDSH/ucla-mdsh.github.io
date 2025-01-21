@@ -53,7 +53,7 @@ permalink: "/FAQ/"
 **A**: In order to be exempted from the TOEFL/IELTS requirement, not only must classes be conducted in English, but English must ALSO be the language of daily life in the country you are taking classes. At least two years of your undergraduate study must meet these requirements in order for you to be exempt. 
 
 **Q**: How can I make sure UCLA receives my official TOEFL/IELTS score?\
-**A**: Official TOEFL score reports are sent electronically upon your request from ETS to UCLA (institution code 4837). Official scores are required for admission but not for application. Applicants who are submitting an IELTS score must email their Test Report Form (TRF) number to mdsh@ucla.edu. The Admissions Team will then download and attach your official score report.
+**A**: Official TOEFL score reports are sent electronically upon your request from ETS to UCLA (institution code 4837, department code 99). Official scores are required for admission but not for application. Applicants who are submitting an IELTS score must email their Test Report Form (TRF) number to mdsh@ucla.edu. The Admissions Team will then download and attach your official score report.
 
 **Q**: Are international students in this program eligible for OPT?\
 **A**: Yes.  Students also qualify for the [STEM OPT extension](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt).
