@@ -29,8 +29,6 @@
     url: "/curriculum/cohortlearning"
   - title: "Course Description"
     url: "/curriculum/coursedescription"
-  - title: "Class Schedule"
-    url: "/curriculum/classschedule"
 
 - title: Student Resources
   url: "/students/"
