@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "MDSH Capstone Summits"
+title: "MDSH Capstone Summit"
 # subheadline: "Layouts of Feeling Responsive"
 header:
     title: ""
-    image_fullwidth: "jay-xu-tom-belin-900-400.jpg"
+    image_fullwidth: "capstone1.jpeg"
     
 callforaction:
  url: /apply/
