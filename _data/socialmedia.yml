@@ -1,3 +1,24 @@
+- name: LinkedIn
+  url: https://www.linkedin.com/in/uclamdsh/
+  #url: https://www.linkedin.com/groups/14314529/
+  class: icon-linkedin
+  title: "LinkedIn"
+  
+- name: Instagram
+  url: https://www.instagram.com/uclamdsh/
+  class: icon-instagram
+  title: "Instagram"
+
+- name: X
+  url: http://twitter.com/uclamdsh/
+  class: icon-twitter
+  title: ""
+  
+- name: Facebook
+  url: https://www.facebook.com/uclafsph/
+  class: icon-facebook
+  title: "Facebook"
+  
 # - name: GitHub
 #   url: https://github.com/UCLA-MDSH
 #   class: icon-github
@@ -7,11 +28,6 @@
 #   url: http://www.youtube.com/UCLA-MDSH
 #   class: icon-youtube
 #   title: "Video"
-
-- name: X
-  url: http://twitter.com/uclamdsh/
-  class: icon-twitter
-  title: ""
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/UCLA-MDSH/
@@ -23,20 +39,10 @@
 #   class: icon-facebook
 #   title: "UCLA Biostatistics Facebook Group"
 
-- name: Facebook
-  url: https://www.facebook.com/uclafsph/
-  class: icon-facebook
-  title: "Facebook"
-
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
-
-- name: Instagram
-  url: https://www.instagram.com/uclamdsh/
-  class: icon-instagram
-  title: "Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
@@ -48,9 +54,5 @@
 #   class: icon-xing
 #   title: Xing Profil
 
-- name: LinkedIn
-  url: https://www.linkedin.com/in/uclamdsh/
-  #url: https://www.linkedin.com/groups/14314529/
-  class: icon-linkedin
-  title: "LinkedIn"
+
   
