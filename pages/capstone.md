@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "MDSH Capstone Summit"
+title: "MDSH Capstone"
 # subheadline: "Layouts of Feeling Responsive"
 header:
     title: ""

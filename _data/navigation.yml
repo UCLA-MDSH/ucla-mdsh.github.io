@@ -49,11 +49,11 @@
   url: "/faculty/"
   side: left
 
-- title: MDSH Summit
+- title: MDSH Capstone
   url: "/capstone/"
   side: left
   dropdown:
-  - title: "2025"
+  - title: "2025 Summit"
     url: "/capstone/summit2025"
   
 # - title: News
