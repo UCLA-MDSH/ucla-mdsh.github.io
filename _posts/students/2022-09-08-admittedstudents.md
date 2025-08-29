@@ -49,7 +49,7 @@ To create your UCLA Logon ID go to <https://accounts.iam.ucla.edu/#/>.
 
 ## Student Handbook
 
-For a checklist of important steps for newly admitted students, as well as other important information about the program, please see the [Student Handbook](/docs/MDSH_Student_Handbook_Fall_2024.pdf).
+For a checklist of important steps for newly admitted students, as well as other important information about the program, please see the [Student Handbook](/docs/MDSH_Student_Handbook_Fall_2025.pdf).
 
 
 ## Student ID (BruinCard)
