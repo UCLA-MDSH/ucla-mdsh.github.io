@@ -6,7 +6,8 @@ subheadline         : ""
 teaser              : ""
 header:
     title: "Training Next-Generation Health Data Scientists"
-    image_fullwidth: "header_roadmap_2.jpg"
+    #image_fullwidth: "header_roadmap_2.jpg"
+    image_fullwidth: "UCLA-FSPH-2024-182-1_edt6.png"
     
     
 callforaction:
