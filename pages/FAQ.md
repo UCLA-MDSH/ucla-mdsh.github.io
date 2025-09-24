@@ -7,7 +7,8 @@ header:
     title: ""
     #image_fullwidth: "crespi-williams-900-400.jpg"
     #image_fullwidth: "biostat-blue.PNG"
-    image_fullwidth: "UCLA-FSPH-2024-385-4_edt2.png"
+    #image_fullwidth: "UCLA-FSPH-2024-385-4_edt2.png"
+    image_fullwidth: "faq.png"
 # image: 
 #     title: "crespi-williams-900-400.jpg"
 #     caption: "Training Next-Generation Health Data Scientists"
