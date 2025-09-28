@@ -44,7 +44,7 @@ Classes are held on campus only one weekend per month. The class schedule is giv
 
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/tJIuc-mtqj0qG91cHwVA2wEnn3WDwxVEio-p">Register for an Information Session</a>
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/wm_KBmloQRuGWZfXj8qIjQ">Register for an Information Session</a>
         </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
