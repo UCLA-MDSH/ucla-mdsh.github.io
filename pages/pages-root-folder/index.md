@@ -24,7 +24,7 @@ The **UCLA Master of Data Science in Health (MDSH)** Program provides advanced t
 
 Complete your degree in 20 months by attending in-person classes one weekend per month and online evening sessions!
 
-**Applications for Fall 2026 enrollment will open in September 2025!**
+**Applications for Fall 2026 enrollment are now open!**
 
 <!--
 <div class="row t60 b60">
