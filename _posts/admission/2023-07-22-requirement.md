@@ -68,11 +68,11 @@ Select **Master of Data Science in Health (MDSH)** as the major.-->
 
 ## Deadlines
 
-The following deadlines apply to applications for Fall 2025 enrollment:
+The following deadlines apply to applications for Fall 2026 enrollment:
 
-Priority deadline: **February 1, 2025** <br>
-Regular deadline: **April 1, 2025** <br>
-Final deadline: **June 15, 2025** <br>
+Priority deadline: **February 1, 2026** <br>
+Regular deadline: **April 1, 2026** <br>
+Final deadline: **June 15, 2026** <br>
 
 
 ## Admissions Timeline
