@@ -19,12 +19,11 @@ callforaction:
  style: alert
 ---
 
-We will hold information sessions on the **first Tuesday of each month at 5:00 PM PST**, where you will have the opportunity to meet with the Director, program staff, teaching faculty, and students. 
+Our next information session will be held on **Tuesday, December 2nd at 5:00 PM PST**, where you will have the opportunity to meet with the Director, program staff, teaching faculty, and students. 
 
 
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/wm_KBmloQRuGWZfXj8qIjQ">Register for an Information Session</a>
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/GcsfImLtQuO7whhbVx8c-g#/registration">Register for an Information Session</a>
         </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
-

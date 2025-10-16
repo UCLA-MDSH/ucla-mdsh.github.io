@@ -53,7 +53,7 @@ Complete your degree in 20 months by attending in-person classes one weekend per
 
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/wm_KBmloQRuGWZfXj8qIjQ">Register for an Information Session</a>
+            <a class="button large radius info" href="https://ucla.zoom.us/meeting/register/GcsfImLtQuO7whhbVx8c-g#/registration">Register for an Information Session</a>
         </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
