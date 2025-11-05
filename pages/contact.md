@@ -25,10 +25,10 @@ Want to get in touch with us? To ensure you receive timely support, we recommend
 Program Director \
 [huazhou@ucla.edu](mailto:huazhou@ucla.edu?subject=Question about MDSH Program)
 
-### Leah Loh
+### Dr. Shumin Wu
 
-Interim Associate Director \
-[lloh@ph.ucla.edu](mailto:lloh@ph.ucla.edu?subject=Question about MDSH Program)
+Program Manager \
+[shuminwu@ucla.edu](mailto:shuminwu@ucla.edu?subject=Question about MDSH Program)
 
 ### Chandler Eldridge
 
