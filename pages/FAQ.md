@@ -75,6 +75,9 @@ permalink: "/FAQ/"
 **Q**: What official documents do I need to send from my undergraduate institution?\
 **A**: The documents required depends on your home country.  Please reach out to us if you are unsure what documents you need to provide in your application. For applicants graduating from Universities in China, the following documents are required: **Transcript, Degree Certificate, and Diploma**.  All three documents must be provided in **both Chinese and English**.  In your application, you may upload unofficial copies of these documents.  Once you are admitted, these documents must be sent directly by your University's Registrar Office or via Parchment to <admissions@ph.ucla.edu>.
 
+**Q**: Is the MDSH program certified by the Chinese Service Center for Scholarly Exchange (CSCSE)?\
+**A**: Yes, we have had alumni successfully verify their MDSH degree with CSCSE. However, international students must maintain full-time student status during the period of study. Some students who traveled outside the U.S. for an extended period during regular academic quarters had difficulty verifying their degree with CSCSE.   
+
 ### Academics and Student Life
 
 **Q**: Is it possible to enroll in this program at the same time as another UCLA degree program?\
