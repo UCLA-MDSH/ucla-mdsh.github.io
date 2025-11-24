@@ -26,13 +26,11 @@ Complete your degree in 20 months by attending in-person classes one weekend per
 
 **Applications for Fall 2026 enrollment are now open!**
 
-<!--
 <div class="row t60 b60">
         <div class="small-12 text-center columns">
             <a class="button large radius alert" href="/apply/">Apply Now ›</a>
         </div>
 </div>
--->
 
 
 ## Message from the Senior Associate Dean, Sudipto Banerjee, Ph.D.
