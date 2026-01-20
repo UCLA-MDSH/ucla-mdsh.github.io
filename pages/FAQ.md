@@ -46,6 +46,9 @@ permalink: "/FAQ/"
 **Q**: What is the admission rate of the MDSH program?\
 **A**: Program statistics, including admission rate, are published by [UCLA Graduate Division](https://grad.ucla.edu/programs/school-of-public-health/biostatistics-department/data-science-in-health/).
 
+**Q**: May I apply to more than one graduate program at UCLA?\
+**A**: No. University regulations permit an applicant to apply to one major only. This policy applies across schools and departments within UCLA.
+
 ### International Students: Visas and Admissions
 
 **Q**: What type of Visa can international students receive? \
