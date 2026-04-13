@@ -19,7 +19,7 @@ callforaction:
  style: alert
 ---
 
-Our next information session will be held on **Monday, January 5th, 2026 at 5:00 PM PST**, where you will have the opportunity to meet with the Director, program staff, teaching faculty, and students. 
+Our next information session will be held on the **first Monday of each month**, where you will have the opportunity to meet with the Director, program staff, teaching faculty, and students. 
 
 
 <div class="row t60 b60">
