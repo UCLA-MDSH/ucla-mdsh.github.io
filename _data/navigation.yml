@@ -53,6 +53,8 @@
   url: "/capstone/"
   side: left
   dropdown:
+  - title: "2026 Summit"
+    url: "/capstone/summit2026"
   - title: "2025 Summit"
     url: "/capstone/summit2025"
   
