@@ -17,9 +17,9 @@
 #   url: "/events/"
 #   side: left
 
-- title: Events
-  url: "/events_calendar/"
-  side: left
+# - title: Events
+#  url: "/events_calendar/"
+#  side: left
 
 - title: Curriculum
   url: "/curriculum/"
