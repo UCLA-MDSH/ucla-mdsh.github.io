@@ -95,6 +95,9 @@ permalink: "/FAQ/"
 **Q**: Upon degree completion, will the transcript or degree state that the program was completed in hybrid mode, or part-time?\
 **A**: No.  Neither the transcript nor Degree will mention the hybrid course mode.  The MDSH program is considered a full-time program for F-1 Visa purposes, however, domestic students are welcome to take the program part-time. Transcripts will reflect each student's actual course enrollment per quarter. 
 
+**Q**: Can I take MDSH courses for Satisfactory/Unsatisfactory (S/U) grading rather than Letter Grading (LG)?\
+**A**: All MDSH courses are automatically set to Letter Grading (LG) when you first enroll. Changing a course's grading scheme to Satisfactory/Unsatisfactory (S/U) will result in the course **not** being applied toward the degree requirements. Only courses in which a grade of C or better is received may be applied toward the requirements for the MDSH degree.
+
 **Q**: Can MDSH students live in the University dormitories?\
 **A**: Yes, although there may be a waiting list. Please contact the [UCLA Housing](https://portal.housing.ucla.edu/) for more information. 
 
