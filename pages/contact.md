@@ -25,11 +25,6 @@ Want to get in touch with us? To ensure you receive timely support, we recommend
 Program Director \
 [huazhou@ucla.edu](mailto:huazhou@ucla.edu?subject=Question about MDSH Program)
 
-### Dr. Shumin Wu
-
-Program Manager \
-[shuminwu@ucla.edu](mailto:shuminwu@ucla.edu?subject=Question about MDSH Program)
-
 ### Chandler Eldridge
 
 Student Affairs Officer \
